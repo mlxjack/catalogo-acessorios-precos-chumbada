@@ -208,6 +208,41 @@ window.PRODUCTS = [
     ]
   },
   {
+    "id": 61,
+    "slug": "mini-secretaria",
+    "category": "Acessórios",
+    "name": "Mini Secretária",
+    "price": "R$ 14,90",
+    "img": "assets/img/shopify/mini_secretaria.jpg",
+    "link": "https://chumbadas.com.br/products/mini-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "vars": [
+      [
+        "PretoEco",
+        "R$ 14,90"
+      ],
+      [
+        "Colorido",
+        "R$ 6,90"
+      ]
+    ],
+    "description": "<p><b>Mini Secretária Chumbada Oficial </b><br><br>A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.<br><br>Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.<br><br>Pode ser usada em diferentes opções de encaixe:<br><br>Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.<br><br>Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.<br><br>Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.<br><br>Disponível nas opções <b>Preto Eco</b>, <b>Preta</b>, <b>Branca</b> e <b>Azul</b>.<br><br><b>Mini Secretária Chumbada Oficial: pequena no tamanho, gigante na praticidade.</b></p>",
+    "images": [
+      "assets/img/shopify/mini_secretaria.jpg",
+      "assets/img/shopify/mini_secretaria_preto_eco_2.png",
+      "assets/img/shopify/Mini_Secretaria_Azul.jpg",
+      "assets/img/shopify/mini-secretaria_branca.png",
+      "assets/img/shopify/mini-secretaria.png"
+    ],
+    "video": "",
+    "specs": {
+      "Material": "Polietileno de alta resistência contra raios UV e impactos",
+      "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
+      "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
+    },
+    "section": "Lançamentos",
+    "featured": true
+  },
+  {
     "id": 3,
     "slug": "atrativo-comum",
     "category": "Atrativos",
@@ -1541,6 +1576,14 @@ window.PRODUCTS = [
       [
         "Borracha 120cm",
         "R$ 36,58"
+      ],
+      [
+        "Apoio de Borracha",
+        "R$ 4,00"
+      ],
+      [
+        "Copo de Borracha",
+        "R$ 5,00"
       ]
     ],
     "swatches": [
@@ -2522,122 +2565,6 @@ window.PRODUCTS = [
     "section": "Proteção"
   },
   {
-    "id": 48,
-    "slug": "apoio-de-borracha",
-    "category": "Peças",
-    "name": "Apoio de Borracha",
-    "price": "R$ 4,00",
-    "img": "assets/img/shopify/apoio_borracha.jpg",
-    "link": "https://chumbadas.com.br/products/apoio-de-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Apoio de Borracha para suporte de vara slim</p>",
-    "images": [
-      "assets/img/shopify/apoio_borracha.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Borracha premium de alta densidade",
-      "Compatibilidade": "Peça sobressalente de reposição para o suporte de vara Slim",
-      "Função": "Apoio seguro anti-risco para a vara"
-    },
-    "section": "Peças"
-  },
-  {
-    "id": 49,
-    "slug": "copo-de-borracha",
-    "category": "Peças",
-    "name": "Copo de Borracha",
-    "price": "R$ 5,00",
-    "img": "assets/img/shopify/Copo_borracha.jpg",
-    "link": "https://chumbadas.com.br/products/copo-de-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "swatches": [
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Branco",
-        "#ffffff"
-      ]
-    ],
-    "description": "<p>Copo de Borracha para suporte de vara slim</p>",
-    "images": [
-      "assets/img/shopify/Copo_borracha.jpg",
-      "assets/img/shopify/Copo_borracha1.png"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Borracha premium de alta densidade",
-      "Compatibilidade": "Peça sobressalente de reposição para o suporte de vara Slim",
-      "Função": "Apoio inferior de encaixe do pé da vara"
-    },
-    "section": "Peças"
-  },
-  {
-    "id": 65,
-    "slug": "trava-linha",
-    "category": "Peças",
-    "name": "Trava Linha",
-    "price": "R$ 4,20",
-    "img": "assets/img/shopify/pesca-12.jpg",
-    "link": "https://chumbadas.com.br/products/trava-linha-cano-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Linha de Multifilamento 4X – 300 metros | Chumbada Oficial</p>\n<p>Chegou a linha que fala a verdade.<br>A Verax 4X 300 m da Chumbada Oficial não é só mais uma multifilamento — é um novo padrão no mercado.</p>\n<p>Desenvolvida com alta tecnologia e testada por mais de 1 ano em condições reais de pesca, essa linha entrega o que promete: resistência de verdade e especificações honestas.</p>\n<p>O grande diferencial está no nome Verax — do latim, verdade, sinceridade.<br>Enquanto muitas marcas “maquiam” diâmetro e resistência, a Chumbada Oficial fez o caminho mais difícil: mostrar a realidade.</p>\n<p>👉 Espessura real<br>👉 Capacidade de tração real<br>👉 Sem exagero, sem enganação</p>\n<p>Compare com qualquer outra linha do mercado.<br>Meça. Teste. Coloque lado a lado.<br>Você vai perceber: a Verax entrega exatamente o que está na embalagem.</p>\n<p>Além da transparência, você leva uma linha:<br>✔ 4 fios de alta resistência<br>✔ Excelente sensibilidade<br>✔ Ótima performance de arremesso<br>✔ Baixa memória<br>✔ Alta durabilidade</p>\n<p>Se você busca performance, pode até encontrar várias opções.<br>Mas se você busca performance com verdade, a escolha é uma só.</p>\n<p>Chumbada Oficial – aqui a pesca é levada a sério. 🎣</p>\n<p>#ChumbadaOficial #LinhaVerax #Multifilamento #PescaEsportiva #Ajing #Ultralight #PescaDePraia #PescaBrasil #FishingLife #GearDePesca #PesqueESolte</p>",
-    "images": [
-      "assets/img/shopify/pesca-12.jpg",
-      "assets/img/shopify/pesca-11.jpg",
-      "assets/img/shopify/pesca-59.jpg",
-      "assets/img/shopify/pesca-62.jpg",
-      "assets/img/shopify/1_7e7f6ca2-e9fa-4fd2-a353-bd87ca20f9f0.jpg",
-      "assets/img/shopify/1_2.jpg",
-      "assets/img/shopify/1_5.jpg",
-      "assets/img/shopify/2_b6ee5156-7837-4a57-81f6-6099366220f0.jpg",
-      "assets/img/shopify/3.jpg",
-      "assets/img/shopify/3_5.jpg",
-      "assets/img/shopify/4_5.jpg",
-      "assets/img/shopify/5.jpg",
-      "assets/img/shopify/6_745b4c8c-ff0f-4ba3-9ce3-1fd17fdc3882.jpg",
-      "assets/img/shopify/8.jpg",
-      "assets/img/shopify/9.jpg",
-      "assets/img/shopify/10.jpg",
-      "assets/img/shopify/12.jpg",
-      "assets/img/shopify/linhaajing.jpg",
-      "assets/img/shopify/costas_b4940be1-8a74-414c-9903-c3be25aa3daf.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Comprimento/Medida": "300 METROS",
-      "Dimensões": "4X300M"
-    },
-    "section": "Peças"
-  },
-  {
-    "id": 66,
-    "slug": "apoio-para-anzol",
-    "category": "Peças",
-    "name": "Apoio para Anzol",
-    "price": "R$ 2,69",
-    "img": "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
-    "link": "https://chumbadas.com.br/products/apoio-anzol-cano?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "description": "<p>Praticidade e Eficiência e ótimo Custo Benefício<br>O Saca Anzol é o acessório indispensável para pescadores que buscam praticidade e eficiência. Fabricado em plástico de alta qualidade, ele foi desenvolvido especialmente para facilitar a retirada do anzol quando o peixe engole profundamente, preservando a integridade do equipamento e, sempre que possível, do peixe.<br>Ideal para pescarias de praia , este desembuchador combina eficiência e custo-benefício , sendo leve, resistente e acessível. Disponível em três tamanhos – pequeno, médio e grande –, ele atende às necessidades de diferentes tipos de pesca e espécies de peixes. Para maior conveniência, oferecemos também o kit completo com os três tamanhos, garantindo que você esteja preparado para qualquer situação.<br>Escolha o Saca Anzol / Desembuchador e torne suas pescarias ainda mais produtivas e práticas!</p>",
-    "images": [
-      "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_1.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_2.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_3.jpg",
-      "assets/img/shopify/1125_-_foto_-_saca_anzol_4.jpg",
-      "assets/img/shopify/SacaAnzol-G_f9098de5-7f97-4f05-87f2-6f1cb934b110.jpg",
-      "assets/img/shopify/SacaAnzol-M_6afbf618-aaa7-4dee-85f1-537baecb4c1d.jpg",
-      "assets/img/shopify/SacaAnzol-P_23371b65-d873-4c3b-89a6-8b0d25c12ef4.jpg",
-      "assets/img/shopify/SacaAnzol-Kit.jpg"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Plástico rígido de engenharia leve e resistente",
-      "Função": "Retirar anzóis profundos de forma rápida e segura sem machucar o peixe",
-      "Tamanhos": "Disponível em P, M, G ou no Kit Completo com os 3 tamanhos"
-    },
-    "section": "Peças"
-  },
-  {
     "id": 8,
     "slug": "adaptador-de-carretilha-kit-com-4",
     "category": "Acessórios",
@@ -3408,44 +3335,9 @@ window.PRODUCTS = [
     "section": "Acessórios"
   },
   {
-    "id": 61,
-    "slug": "mini-secretaria",
-    "category": "Acessórios",
-    "name": "Mini Secretária",
-    "price": "R$ 14,90",
-    "img": "assets/img/shopify/mini_secretaria.jpg",
-    "link": "https://chumbadas.com.br/products/mini-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "vars": [
-      [
-        "PretoEco",
-        "R$ 14,90"
-      ],
-      [
-        "Colorido",
-        "R$ 6,90"
-      ]
-    ],
-    "description": "<p><b>Mini Secretária Chumbada Oficial </b><br><br>A Mini Secretária foi desenvolvida para facilitar a vida do pescador na hora da pescaria.<br><br>Compacta, prática e muito funcional, ela pode ser utilizada como uma bandeja de apoio para organizar os acessórios e trabalhar a isca com mais conforto e agilidade.<br><br>Pode ser usada em diferentes opções de encaixe:<br><br>Na cantoneira dos suportes de vara, na cantoneira Premium e Slim ou até mesmo em cano comum de esgoto de 2”.<br><br>Nela, o pescador pode apoiar e organizar itens como tesoura, saca-anzol, porta elastricot, iscador, iscas e outros acessórios essenciais durante a pescaria.<br><br>Além disso, conta com espaço próprio para apoiar e preparar a isca, deixando tudo à mão e tornando o momento da montagem muito mais prático.<br><br>Disponível nas opções <b>Preto Eco</b>, <b>Preta</b>, <b>Branca</b> e <b>Azul</b>.<br><br><b>Mini Secretária Chumbada Oficial: pequena no tamanho, gigante na praticidade.</b></p>",
-    "images": [
-      "assets/img/shopify/mini_secretaria.jpg",
-      "assets/img/shopify/mini_secretaria_preto_eco_2.png",
-      "assets/img/shopify/Mini_Secretaria_Azul.jpg",
-      "assets/img/shopify/mini-secretaria_branca.png",
-      "assets/img/shopify/mini-secretaria.png"
-    ],
-    "video": "",
-    "specs": {
-      "Material": "Polietileno de alta resistência contra raios UV e impactos",
-      "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
-      "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
-    },
-    "section": "Lançamentos",
-    "featured": true
-  },
-  {
     "id": 76,
     "slug": "tela-de-espremer-iscas",
-    "category": "Acessórios",
+    "category": "Organização",
     "name": "Tela de Espremer Iscas",
     "price": "R$ 4,50",
     "img": "assets/images/tela-vermelha-a2d4f4df.jpg",
@@ -3486,7 +3378,7 @@ window.PRODUCTS = [
       "Função": "Escoamento de líquidos e prensagem rápida de iscas moídas",
       "Indicação": "Preparo de iscas e engodos para competições ou pesca de praia"
     },
-    "section": "Acessórios"
+    "section": "Organização"
   },
   {
     "id": 2,
@@ -3984,7 +3876,7 @@ window.PRODUCTS = [
   {
     "id": 86,
     "slug": "micanga-micro-tubo",
-    "section": "Suportes e organização",
+    "section": "Montagem",
     "category": "Montagem",
     "name": "Miçanga Micro Tubo",
     "price": "R$ 18,90",
@@ -4123,7 +4015,7 @@ window.PRODUCTS = [
   {
     "id": 87,
     "slug": "jaqueta-de-pesca",
-    "section": "Vestuário técnico",
+    "section": "Vestuário",
     "category": "Vestuário",
     "name": "Jaqueta de Pesca",
     "price": "R$ 399,00",
