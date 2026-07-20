@@ -460,7 +460,7 @@ window.PRODUCTS = [
     "slug": "mini-atrativo-comum",
     "category": "Atrativos",
     "name": "Mini Atrativo Comum",
-    "price": "R$ 6,30",
+    "price": "R$ 4,90",
     "img": "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg",
     "link": "https://chumbadas.com.br/products/kit-mini-atrativo-comum?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -545,49 +545,49 @@ window.PRODUCTS = [
     "slug": "mini-atrativo-holografico",
     "category": "Atrativos",
     "name": "Mini Atrativo Holográfico",
-    "price": "R$ 8,50",
+    "price": "R$ 4,90",
     "img": "assets/img/shopify/capa-atrativo-holografico.png",
     "link": "https://chumbadas.com.br/products/kit-mini-atrativo-holografico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Beijo da Sombra",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Capim Rubi",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Chá",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Luz Laranja",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Roxo Estelar",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Rubi Dourado",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Salmão Radiante",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Verde Cósmico",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Vermelho Holográfico",
-        "R$ 8,50"
+        "R$ 4,90"
       ],
       [
         "Véu da Noite",
-        "R$ 8,50"
+        "R$ 4,90"
       ]
     ],
     "swatches": [
@@ -3872,145 +3872,6 @@ window.PRODUCTS = [
       "Proteção": "Bloqueio de vento e conforto térmico excepcional na beira da água"
     },
     "section": "Vestuário"
-  },
-  {
-    "id": 86,
-    "slug": "micanga-micro-tubo",
-    "section": "Montagem",
-    "category": "Montagem",
-    "name": "Miçanga Micro Tubo",
-    "price": "R$ 18,90",
-    "img": "assets/img/shopify/micanga-micro-tubo.jpg",
-    "link": "https://chumbadas.com.br/products/micanga-micro-tubo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-    "featured": false,
-    "vars": [
-      [
-        "Amarelo",
-        "R$ 18,90"
-      ],
-      [
-        "Areia",
-        "R$ 18,90"
-      ],
-      [
-        "Azul",
-        "R$ 18,90"
-      ],
-      [
-        "Azul Maya",
-        "R$ 18,90"
-      ],
-      [
-        "Azul Tiffany",
-        "R$ 18,90"
-      ],
-      [
-        "Camaleão",
-        "R$ 18,90"
-      ],
-      [
-        "Laranja",
-        "R$ 18,90"
-      ],
-      [
-        "Pink",
-        "R$ 18,90"
-      ],
-      [
-        "Preto",
-        "R$ 18,90"
-      ],
-      [
-        "Rosa",
-        "R$ 18,90"
-      ],
-      [
-        "Roxo",
-        "R$ 18,90"
-      ],
-      [
-        "Verde Esmeralda",
-        "R$ 18,90"
-      ],
-      [
-        "Verde Floresta",
-        "R$ 18,90"
-      ],
-      [
-        "Verde Limão",
-        "R$ 18,90"
-      ],
-      [
-        "Vermelho",
-        "R$ 18,90"
-      ]
-    ],
-    "swatches": [
-      [
-        "Amarelo",
-        "#facc15"
-      ],
-      [
-        "Areia",
-        "#ece0ca"
-      ],
-      [
-        "Azul",
-        "#2563eb"
-      ],
-      [
-        "Azul Maya",
-        "#73c2fb"
-      ],
-      [
-        "Azul Tiffany",
-        "#0abab5"
-      ],
-      [
-        "Camaleão",
-        "linear-gradient(45deg, #3b82f6, #10b981, #f59e0b)"
-      ],
-      [
-        "Laranja",
-        "#f97316"
-      ],
-      [
-        "Pink",
-        "#ec4899"
-      ],
-      [
-        "Preto",
-        "#111827"
-      ],
-      [
-        "Rosa",
-        "#f472b6"
-      ],
-      [
-        "Roxo",
-        "#7c3aed"
-      ],
-      [
-        "Verde Esmeralda",
-        "#50c878"
-      ],
-      [
-        "Verde Floresta",
-        "#228b22"
-      ],
-      [
-        "Verde Limão",
-        "#ccff00"
-      ],
-      [
-        "Vermelho",
-        "#dc2626"
-      ]
-    ],
-    "description": "<p>A Miçanga Microtubo da Chumbada Oficial é um componente especialmente projetado para atuar como uma superfície de apoio para o rotor de Engate Rápido, Miçanga Rotor ou mesmo Destorcedores pequenos que prendem as pernadas do chicote de pesca.</p>\n<p>Sua principal característica é proporcionar um baixo atrito na corrente de água, durante o giro do rotor, durante o arremesso e recolhimento otimizando o desempenho do sistema.</p>\n<p>Essa miçanga é fabricada em tamanho reduzido, permitindo um encaixe preciso e eficiente. Com sua tecnologia especializada, ela contribui para a suavidade e eficácia do conjunto de pesca, tornando essa experiência ainda mais agradável e produtiva.</p>",
-    "images": [
-      "assets/img/shopify/micanga-micro-tubo.jpg"
-    ]
   },
   {
     "id": 87,
