@@ -1543,39 +1543,39 @@ window.PRODUCTS = [
       ],
       [
         "Plástico 60cm",
-        "R$ 19,55"
-      ],
-      [
-        "Plástico 85cm",
-        "R$ 26,45"
-      ],
-      [
-        "Plástico 1m",
-        "R$ 28,75"
-      ],
-      [
-        "Plástico 1,2m",
-        "R$ 33,35"
-      ],
-      [
-        "Borracha 40cm",
         "R$ 28,00"
       ],
       [
+        "Plástico 85cm",
+        "R$ 28,00"
+      ],
+      [
+        "Plástico 1m",
+        "R$ 28,00"
+      ],
+      [
+        "Plástico 1,2m",
+        "R$ 28,00"
+      ],
+      [
+        "Borracha 40cm",
+        "R$ 32,00"
+      ],
+      [
         "Borracha 60cm",
-        "R$ 22,42"
+        "R$ 38,00"
       ],
       [
         "Borracha 85cm",
-        "R$ 29,50"
+        "R$ 50,00"
       ],
       [
         "Borracha 100cm",
-        "R$ 31,68"
+        "R$ 54,00"
       ],
       [
         "Borracha 120cm",
-        "R$ 36,58"
+        "R$ 62,00"
       ],
       [
         "Apoio de Borracha",
@@ -1917,7 +1917,7 @@ window.PRODUCTS = [
     "slug": "copo-para-carretel-g",
     "category": "Organização",
     "name": "Copo para Carretel G",
-    "price": "R$ 2,40",
+    "price": "R$ 6,00",
     "img": "assets/img/shopify/pesca-13.jpg",
     "link": "#",
     "swatches": [
