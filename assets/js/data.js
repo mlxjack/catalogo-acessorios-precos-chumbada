@@ -14,7 +14,7 @@ window.PRODUCTS = [
     "section": "Lançamentos",
     "category": "Montagem",
     "name": "Linha Multi Verax 4X 300m",
-    "price": "a partir de R$ 79,91",
+    "price": "a partir de R$ 159,82",
     "img": "assets/img/shopify/pesca-12.jpg",
     "link": "https://chumbadas.com.br/products/linha-de-pesca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "featured": true,
@@ -212,7 +212,7 @@ window.PRODUCTS = [
     "slug": "atrativo-comum",
     "category": "Atrativos",
     "name": "Atrativo Comum",
-    "price": "R$ 5,80",
+    "price": "R$ 7,00",
     "img": "assets/img/shopify/cap-atrativo.png",
     "link": "https://chumbadas.com.br/products/kit-atrativo-comum-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -310,49 +310,49 @@ window.PRODUCTS = [
     "slug": "atrativo-holografico",
     "category": "Atrativos",
     "name": "Atrativo Holográfico",
-    "price": "R$ 5,80",
+    "price": "R$ 7,00",
     "img": "assets/img/shopify/capa-atrativo-holografico.png",
     "link": "https://chumbadas.com.br/products/kit-atrativo-holografico-5mm-5-filetes-com-10-unidades?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Beijo da Sombra",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Capim Rubi",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Chá",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Luz Laranja",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Roxo Estelar",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Rubi Dourado",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Salmão Radiante",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Verde Cósmico",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Vermelho Holográfico",
-        "R$ 5,80"
+        "R$ 7,00"
       ],
       [
         "Véu da Noite",
-        "R$ 5,80"
+        "R$ 7,00"
       ]
     ],
     "swatches": [
@@ -425,7 +425,7 @@ window.PRODUCTS = [
     "slug": "mini-atrativo-comum",
     "category": "Atrativos",
     "name": "Mini Atrativo Comum",
-    "price": "R$ 4,90",
+    "price": "R$ 6,30",
     "img": "assets/images/mini-atrativo-comum-amarelo-e99da884.jpg",
     "link": "https://chumbadas.com.br/products/kit-mini-atrativo-comum?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -510,49 +510,49 @@ window.PRODUCTS = [
     "slug": "mini-atrativo-holografico",
     "category": "Atrativos",
     "name": "Mini Atrativo Holográfico",
-    "price": "R$ 4,90",
+    "price": "R$ 8,50",
     "img": "assets/img/shopify/capa-atrativo-holografico.png",
     "link": "https://chumbadas.com.br/products/kit-mini-atrativo-holografico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Beijo da Sombra",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Capim Rubi",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Chá",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Luz Laranja",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Roxo Estelar",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Rubi Dourado",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Salmão Radiante",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Verde Cósmico",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Vermelho Holográfico",
-        "R$ 4,90"
+        "R$ 8,50"
       ],
       [
         "Véu da Noite",
-        "R$ 4,90"
+        "R$ 8,50"
       ]
     ],
     "swatches": [
@@ -625,7 +625,7 @@ window.PRODUCTS = [
     "slug": "rotor-de-engate-rapido-cabeca-de-cobra",
     "category": "Montagem",
     "name": "Rotor de Engate Rápido Cabeça de Cobra",
-    "price": "R$ 8,10",
+    "price": "R$ 16,20",
     "img": "assets/img/shopify/Rotor-Cabeca-de-Cobra-capa.png",
     "link": "https://chumbadas.com.br/products/rotor-de-engate-rapido-cabeca-de-cobra?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p><span>Rotor de Engate Rápido Cabeça de Cobra</span></p>\n<p><span>P - Chicote até 0,40 e pernada 0,20 a 0,28</span></p>\n<p><span>G - Chicote até 0,62 e pernada 0,28 a 0,42</span></p>\n<p><span>Contem 8 Unidades</span></p>",
@@ -649,7 +649,7 @@ window.PRODUCTS = [
     "slug": "no-de-correr-kit-com-4-pecas",
     "category": "Montagem",
     "name": "Nó de Correr Kit com 4 peças",
-    "price": "R$ 8,14",
+    "price": "R$ 7,40",
     "img": "assets/img/shopify/no-de-correr-capa.png",
     "link": "https://chumbadas.com.br/products/kit-no-de-correr?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">O nó de correr é um componente fundamental na pesca, atuando como um stopper versátil que permite ajustar a posição das pernadas de acordo com as diferentes situações de pesca. Cada saquinho contém quatro conjuntos, totalizando doze nós de correr, oferecendo amplas opções de configuração.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">A utilização desse nó é simples e eficaz. Primeiro, você deve passar a linha pelo canal presente na pega de plástico. Em seguida, transfira o nó de correr para a linha e realize o aperto de acordo com a pressão desejada. Após garantir a fixação adequada, é recomendado cortar o excesso de linha, deixando cerca de 1,5 mm de ponta.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Esse conjunto é especialmente projetado para otimizar a técnica do nó de correr. A linha especial oferece resistência ideal sem prejudicar sua integridade, proporcionando uma montagem confiável dos chicotes de pesca.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Uma sugestão de montagem é a seguinte: comece com um nó de correr depois acrescente uma miçanga microtubo, coloque o rotor de engate rápido (cabeça de cobra ou V) se preferir miçanga rotor, coloque outra miçanga microtubo e, por fim, o nó de correr novamente. Essa configuração pode ser repetida caso você esteja montando um chicote para duas pernadas. Dessa forma, você terá uma montagem sólida e eficaz, pronta para enfrentar diversas situações de pesca.</span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">É possível usar o nó de correr para ajustes de altura de bóias, ou outras montagem que necessitem de trava na linha e que sejam ajustáveis. Lembrando sempre de ajustar a técnica e os componentes conforme as espécies alvo e as condições do ambiente aquático. Com essas orientações, você estará preparado para aproveitar ao máximo suas sessões de pesca com a confiança de que seu equipamento está bem montado e configurado.</span></p>",
@@ -673,7 +673,7 @@ window.PRODUCTS = [
     "slug": "snap-universal-cobreno-g",
     "category": "Montagem",
     "name": "Snap Universal + Cobrenó G",
-    "price": "R$ 4,39",
+    "price": "R$ 14,00",
     "img": "assets/img/shopify/snap-mais-cobre-no-capa.png",
     "link": "https://chumbadas.com.br/products/kit-snap-cobre-no-g-20-unidades-de-cada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
@@ -751,7 +751,7 @@ window.PRODUCTS = [
     "slug": "stopper-oliva-p-m-g",
     "category": "Montagem",
     "name": "Stopper Oliva P, M, G",
-    "price": "R$ 8,13",
+    "price": "R$ 8,00",
     "img": "assets/img/shopify/Stopper-oliva-grande-capa-2.png",
     "link": "https://chumbadas.com.br/products/stopper-modelo-oliva?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Stopper Modelo Oliva: Regulagem Precisa, Versatilidade e Segurança na captura do peixe.</p>\n<p>O Stopper modelo Oliva é muito mais do que um acessório para regulagem de linha; é uma solução inteligente que combina praticidade e segurança, especialmente em pescarias desafiadoras. Feito de borracha de alta qualidade, ele desliza com leve pressão na linha, permitindo ajustes precisos na altura da boia ou da pernada, atendendo diferentes situações como montagens de chicotes de pescas de praia ou Down Shot.</p>\n<p>Um detalhe importante, mas pouco observado, é sua função como um verdadeiro fusível na linha, oferecendo segurança durante a briga com o peixe. Quando o peixe oferece resistência e há risco de rasgar a boca ou estourar o anzol, o Stopper entra em ação. Ele desliza suavemente pela linha principal, sem deixar a linha afrouxar, mas aliviando a pressão sobre a membrana sensível da boca do peixe. Isso faz do Stopper modelo Oliva indispensável para pescarias onde os peixes têm bocas frágeis e delicadas.</p>\n<p>Na briga com o peixe, vários fatores trabalham em conjunto para absorver o impacto: a mola representada pela torção do caniço, a elasticidade da linha, o freio do molinete ou da carretilha, e, com o Stopper, você adiciona mais uma camada de proteção — o deslize controlado na linha. Esse sistema reduz significativamente os riscos de perder o peixe e aumenta suas chances de um combate bem-sucedido.</p>\n<p>Com um design discreto e hidrodinâmico, o modelo Oliva garante naturalidade ao conjunto e excelente performance em qualquer ambiente. Seja para ajustes precisos ou segurança em sua captura, o Stopper modelo Oliva é a ferramenta indispensável para pescadores exigentes.</p>",
@@ -774,7 +774,7 @@ window.PRODUCTS = [
     "slug": "stopper-cilindrico-p-m-g",
     "category": "Montagem",
     "name": "Stopper Cilíndrico P, M, G",
-    "price": "R$ 8,13",
+    "price": "R$ 8,00",
     "img": "assets/img/shopify/Stopper-cilindrico-capa.png",
     "link": "https://chumbadas.com.br/products/stopper-modelo-cilindrico?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p><span>O Stopper Cilíndrico da Chumbada Oficial é uma segunda opção em relação ao modelo anterior, oferecendo as mesmas qualidades e características, porém com uma aderência aprimorada para situações que exigem uma trava mais firme. Assim como o modelo arredondado anterior, o Stopper Cilíndrico é vendido o kit com dois fardos contendo 10 unidades cada.</span></p>\n<p><span> Uma característica distintiva do Stopper Cilíndrico da Chumbada Oficial é a sua pega anatômica, projetada para facilitar a transferência do stopper para a linha do chicote de pesca. Essa pega ergonômica foi desenvolvida visando proporcionar conforto e precisão durante o manuseio, tornando a fixação na linha mais fácil e eficiente. </span></p>\n<p><span>Além disso, nossos stoppers são montados com cabos de aço colados, eliminando qualquer aborrecimento de escaparem durante a montagem. Essa construção confiável e durável garante que os stoppers permaneçam firmemente fixados à linha, mesmo em situações de alta pressão. </span></p>\n<p><span>O Stopper Cilíndrico da Chumbada Oficial é uma escolha confiável para pescadores que procuram uma opção adicional que ofereça uma trava sólida e segura. Sua aderência aprimorada proporciona maior segurança ao garantir que o stopper permaneça no lugar desejado, mesmo durante as situações mais desafiadoras de pesca. </span></p>",
@@ -884,7 +884,7 @@ window.PRODUCTS = [
     "slug": "micangas-de-latao-pacote-com-30",
     "category": "Montagem",
     "name": "Miçangas de Latão (Pacote com 30)",
-    "price": "R$ 8,50",
+    "price": "R$ 15,00",
     "img": "assets/img/shopify/latao-capa.png",
     "link": "https://chumbadas.com.br/products/micangas-de-latao-pacote-com-30?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Miçanga de Latão para usos diversos.</p>\n<p>Diâmetro externo 2,9mm</p>\n<p>Ideal para linhas de até 0,7mm</p>\n<p>As miçangas de latão possuem um lado plano que irá ficar em contato com o rotor e um lado côncavo que irá ficar em contato com o Stopper de borracha ou nó de correr.</p>\n<p>É aconselhável o uso de apenas uma miçanga côncava na parte inferior do rotor e outra miçanga de vidro na parte superior do rotor.</p>",
@@ -950,7 +950,7 @@ window.PRODUCTS = [
     "slug": "rotor-de-engate-rapido-v",
     "category": "Montagem",
     "name": "Rotor de Engate Rápido V",
-    "price": "a partir de R$ 10,50",
+    "price": "a partir de R$ 21,00",
     "img": "assets/img/shopify/rotor-micro-V-capa.png",
     "link": "https://chumbadas.com.br/products/rotor-de-engate-rapido-v?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -960,11 +960,11 @@ window.PRODUCTS = [
       ],
       [
         "30 Micro",
-        "R$ 61,20"
+        "a partir de R$ 35,48"
       ],
       [
         "8 Micro",
-        "R$ 17,74"
+        "a partir de R$ 35,48"
       ],
       [
         "8 P/M/G",
@@ -1000,25 +1000,25 @@ window.PRODUCTS = [
     "section": "Montagem",
     "category": "Montagem",
     "name": "Destorcedores",
-    "price": "a partir de R$ 3,94",
+    "price": "a partir de R$ 6,10",
     "img": "assets/img/shopify/Destorcedor-capa.png",
     "link": "https://chumbadas.com.br/products/destorcedor?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "4kg / 7mm / 14 un",
-        "R$ 4,91"
+        "R$ 6,10"
       ],
       [
         "19kg / 11mm / 12 un",
-        "R$ 3,94"
+        "R$ 6,10"
       ],
       [
         "35kg / 15mm / 10 un",
-        "R$ 4,75"
+        "R$ 8,20"
       ],
       [
         "75kg / 25mm / 5 un",
-        "R$ 6,33"
+        "R$ 8,20"
       ]
     ],
     "description": "<span>O Destorcedor para Pesca é um equipamento que foi desenvolvido para facilitar a prática de pesca. Ele é composto por um corpo principal feito de material resistente, como aço inoxidável, e por duas extremidades que se conectam a uma linha de pesca.</span><br><br><span>Sua principal função é evitar que a linha de pesca fique torcida, o que pode dificultar a captura de peixes e até mesmo causar danos à linha. Com o Destorcedor, a linha de pesca é mantida reta e livre de torções, o que aumenta a eficiência da pescaria.</span><br><br><span>O Destorcedor pode ser utilizado em diversas modalidades de pesca, como a pesca de água doce ou salgada, em rios, lagos ou no mar. Ele é de fácil utilização, bastando apenas conectá-lo à linha de pesca e deixar que ele faça o seu trabalho.</span><br><br><span>Além disso, o Destorcedor é um equipamento durável e resistente, capaz de suportar as condições mais adversas de pesca. Seu design compacto e leve permite que ele seja facilmente transportado na caixa de pesca, tornando-se um acessório indispensável para todo pescador.</span><br><br><span>Temos 4 tamanhos disponíveis que irão atender a diversas modalidades de pesca:</span><br><span>Destorcedor 7mm = 4Kg de capacidade</span><br><span>Destorcedor 11mm = 19Kg de capacidade</span><br><span>Destorcedor 15mm = 35Kg de capacidade</span><br><span>Destorcedor 25mm = 75Kg de capacidade</span>",
@@ -1044,25 +1044,25 @@ window.PRODUCTS = [
     "slug": "destorcedor-triplo",
     "category": "Montagem",
     "name": "Destorcedor Triplo",
-    "price": "a partir de R$ 5,48",
+    "price": "a partir de R$ 10,96",
     "img": "assets/img/shopify/destorcedor-triplo-capa.png",
     "link": "https://chumbadas.com.br/products/kit-destorcedor-triplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "14kg 15mm (10unid)",
-        "R$ 5,48"
+        "R$ 10,96"
       ],
       [
         "20kg 19mm (10unid)",
-        "R$ 6,87"
+        "R$ 13,74"
       ],
       [
         "30kg 23mm (8unid)",
-        "R$ 7,30"
+        "R$ 14,60"
       ],
       [
         "48kg 28mm (6unid)",
-        "R$ 9,87"
+        "R$ 19,74"
       ],
       [
         "50kg 31mm (6unid)",
@@ -1070,7 +1070,7 @@ window.PRODUCTS = [
       ],
       [
         "55kg 33mm (6unid)",
-        "R$ 12,45"
+        "R$ 24,90"
       ]
     ],
     "description": "O Girador Triplo é um equipamento de pesca especialmente projetado para a captura eficaz de peixes como piapara e piauçu. Sua engenhosa concepção permite uma abordagem versátil e altamente sensível para pescarias de espera, atendendo às necessidades tanto dos pescadores experientes como dos iniciantes.<br><br>Este produto apresenta uma configuração inteligente que amplia as chances de sucesso na pesca. O Girador Triplo é utilizado amarrando-se a pernada com anzol no mesmo sentido da linha da carretilha, enquanto a argola perpendicular às linhas é conectada a uma chumbada bola com olhal ou outra qualquer. Isso resulta em um sistema altamente sensível, no qual a sensação de peso da chumbada é minimizada, uma vez que a linha irá ficar desencostada do fundo do local de pesca impedindo que o peixe perceba qualquer resistência indesejada. Essa característica se revela fundamental para evitar que o peixe sinta o peso da chumbada e seja afastado antes de consumir a isca.<br><br>Além disso, o Girador Triplo oferece múltiplas possibilidades de aplicação. Ele pode ser empregado tanto em pescarias de espera, como nas margens de rios e lagos, quanto em pescarias de praia, proporcionando uma excelente experiência de pesca. A capacidade de adaptar o Girador Triplo ao sistema down shot com iscas artificiais amplia ainda mais sua utilidade, demonstrando sua versatilidade em diferentes cenários de pesca.<br><br>Em resumo, o Girador Triplo é um acessório muito bom que aprimora a abordagem de pesca, permitindo uma configuração sensível e discreta para a captura de peixes. Com sua capacidade de minimizar a sensação de peso da chumbada e sua adaptabilidade a diversas técnicas de pesca, esse produto se torna um aliado indispensável para pescadores que buscam maximizar seu sucesso nas aventuras de pesca.",
@@ -1311,17 +1311,17 @@ window.PRODUCTS = [
     "slug": "regua-cantoneira",
     "category": "Medição",
     "name": "Régua Cantoneira",
-    "price": "a partir de R$ 16,79",
+    "price": "a partir de R$ 10,98",
     "img": "assets/img/shopify/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png",
     "link": "https://chumbadas.com.br/products/regua-cantoneira?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "50cm",
-        "R$ 16,79"
+        "R$ 27,24"
       ],
       [
         "100cm",
-        "R$ 24,75"
+        "R$ 43,48"
       ]
     ],
     "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
@@ -1419,7 +1419,7 @@ window.PRODUCTS = [
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte de Vara Premium Completo",
-    "price": "a partir de R$ 71,00",
+    "price": "R$ 109,22",
     "img": "assets/img/shopify/completo-capa.png",
     "link": "https://chumbadas.com.br/products/suporte-de-vara-calao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -1498,13 +1498,13 @@ window.PRODUCTS = [
     "slug": "suporte-de-vara-slim",
     "category": "Suportes",
     "name": "Suporte de Vara Slim",
-    "price": "a partir de R$ 16,10",
+    "price": "R$ 28,00",
     "img": "assets/img/shopify/suporte-de-vara-slim-capa.png",
     "link": "https://chumbadas.com.br/products/suporte-de-vara-slim?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Plástico 40cm",
-        "R$ 16,10"
+        "R$ 28,00"
       ],
       [
         "Plástico 60cm",
@@ -1524,7 +1524,7 @@ window.PRODUCTS = [
       ],
       [
         "Borracha 40cm",
-        "R$ 18,88"
+        "R$ 28,00"
       ],
       [
         "Borracha 60cm",
@@ -1660,17 +1660,17 @@ window.PRODUCTS = [
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte Horizontal Completo",
-    "price": "a partir de R$ 22,20",
+    "price": "a partir de R$ 39,90",
     "img": "assets/img/shopify/photo_2025-03-24_07-29-37_2.jpg",
     "link": "https://chumbadas.com.br/products/suporte-horiziontal?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "40cm",
-        "R$ 22,20"
+        "R$ 39,90"
       ],
       [
         "60cm",
-        "R$ 26,80"
+        "R$ 45,90"
       ],
       [
         "85cm",
@@ -1709,7 +1709,7 @@ window.PRODUCTS = [
     "slug": "apoio-para-barco-com-elastico",
     "category": "Suportes",
     "name": "Apoio para Barco com Elástico",
-    "price": "R$ 19,90",
+    "price": "R$ 32,00",
     "img": "assets/img/shopify/apoio-para-barco.png",
     "link": "https://chumbadas.com.br/products/apoio-barco-de-borracha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p><span data-sheets-root=\"1\">Apoio Barco de Borracha – Proteção prática e eficaz para suas varas <br><br>O Apoio Barco de Borracha é a solução ideal para quem transporta varas de pesca em barcos de alumínio ou qualquer embarcação com cantos em 90 graus. Fabricado em material soft de borracha, ele funciona como uma cantoneira de encaixe simples, que dispensa parafusos, colas ou furos. <br><br>Sua instalação é extremamente fácil: basta apoiar o produto no canto do barco e, com o próprio peso, ele já fica fixado, oferecendo um apoio seguro para suas varas durante o transporte, especialmente em trajetos com muitas ondulações ou impacto de ondas — tão comuns em rios e canais. <br><br>Além de manter as varas firmes, o Apoio Barco de Borracha protege contra riscos, trincas e danos que podem ocorrer quando as varas ficam em contato direto com o casco metálico. <br><br>Simples, eficiente e indispensável para pescadores que valorizam seus equipamentos.</span></p>",
@@ -1730,7 +1730,7 @@ window.PRODUCTS = [
     "slug": "kit-suporte-carretilha-e-molinete-individual",
     "category": "Suportes",
     "name": "Kit Suporte Carretilha e Molinete Individual",
-    "price": "R$ 29,00",
+    "price": "R$ 42,00",
     "img": "assets/img/shopify/Suporte-para-carretilha-e-molinete-individual-capa.png",
     "link": "https://chumbadas.com.br/products/kit-suporte-para-carretilha-e-molinete-indivudual?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
@@ -1804,7 +1804,7 @@ window.PRODUCTS = [
     "slug": "adaptador-de-vara-para-suporte-de-molinete",
     "category": "Suportes",
     "name": "Adaptador de Vara para Suporte de Molinete",
-    "price": "R$ 27,00",
+    "price": "R$ 32,00",
     "img": "assets/img/shopify/adaptador-de-vara.jpg",
     "link": "https://chumbadas.com.br/products/adaptador-de-vara-para-suporte-de-molinete?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Suporte de vara Chumbada Oficial - O Suporte de vara da Chumbada Oficial é fabricado com os melhores materiais disponíveis no mercado, o alumínio é o mais resistente da atualidade, a borracha foi especialmente desenvolvida para não se degradar nem em dias de sol forte e nem na chuva, unindo resistência e durabilidade.<br>O grande diferencial desse suporte é a proteção que o mesmo irá oferecer ao seu equipamento uma vez que a borracha é macia e não risca a vara como outros materiais mais rígidos.<br>O Suporte de vara da Chumbada Oficial foi testado e modificado durante meses por muitos pescadores conceituados no mercado até chegar ao nível atual de excelência. Seu design foi projetado para atender diversas situações de pesca podendo apoiar a vara de lado, deitada ou simplesmente de pé. Nos nossos testes reais, mesmo com ventos fortes o suporte atendeu todas as nossas expectativas.<br>Outro grande diferencial é o encaixe auxiliar na parte traseira da “ferradura” o mesmo permite apoiar a vara enquanto o pescador faz a iscagem ou a troca de chicotes com maior conforto, é possível também sacar o peixe com as mão livres.<br>O Suporte de vara da Chumbada Oficial possui um top de apoio do copo como sugestão porém é possível regular o mesmo em diversas alturas sob pressão sem parafusos ou travas evitando assim problemas futuros de reposição de peças.</p>",
@@ -1874,7 +1874,7 @@ window.PRODUCTS = [
     "slug": "copo-para-carretel-g",
     "category": "Organização",
     "name": "Copo para Carretel G",
-    "price": "R$ 5,00",
+    "price": "R$ 2,40",
     "img": "assets/img/shopify/pesca-13.jpg",
     "link": "#",
     "swatches": [
@@ -1943,7 +1943,7 @@ window.PRODUCTS = [
     "slug": "porta-elastricot",
     "category": "Organização",
     "name": "Porta Elastricot",
-    "price": "R$ 6,30",
+    "price": "R$ 6,40",
     "img": "assets/img/shopify/porta-elastricot.png",
     "link": "https://chumbadas.com.br/products/porta-elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
@@ -2010,7 +2010,7 @@ window.PRODUCTS = [
     "slug": "porta-isca-e-chumbada",
     "category": "Organização",
     "name": "Porta Isca e Chumbada",
-    "price": "R$ 35,00",
+    "price": "R$ 39,50",
     "img": "assets/img/shopify/porta-isca-capa.png",
     "link": "https://chumbadas.com.br/products/porta-isca-e-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
@@ -2044,7 +2044,7 @@ window.PRODUCTS = [
     "slug": "porta-pernada-e-chicote",
     "category": "Organização",
     "name": "Porta Pernada e Chicote",
-    "price": "R$ 30,00",
+    "price": "R$ 40,00",
     "img": "assets/img/shopify/cano-capa.png",
     "link": "https://chumbadas.com.br/products/porta-pernadas-e-chicotes?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
@@ -2185,53 +2185,53 @@ window.PRODUCTS = [
     "slug": "porta-pernada-cano",
     "category": "Organização",
     "name": "Porta Pernada Cano",
-    "price": "a partir de R$ 4,95",
+    "price": "R$ 19,90",
     "img": "assets/img/shopify/cano-capa.png",
     "link": "https://chumbadas.com.br/products/porta-pernada-cano?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Porta Pernada Completo - 20cm",
-        "a partir de R$ 11,84"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 30cm",
-        "a partir de R$ 13,06"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 30cm+30cm",
-        "a partir de R$ 23,43"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 40cm",
-        "a partir de R$ 14,38"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 50cm",
-        "a partir de R$ 15,71"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 60cm",
-        "a partir de R$ 17,23"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 70cm",
-        "a partir de R$ 18,65"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 80cm",
-        "a partir de R$ 20,18"
+        "R$ 19,90"
       ],
       [
         "Porta Pernada Completo - 100cm",
-        "a partir de R$ 23,13"
+        "R$ 19,90"
       ],
       [
         "Somente Cano - 20cm",
-        "a partir de R$ 4,95"
+        "R$ 19,90"
       ],
       [
         "Somente Cano - 30cm",
-        "a partir de R$ 6,17"
+        "R$ 19,90"
       ],
       [
         "Somente Cano - 40cm",
@@ -2344,13 +2344,13 @@ window.PRODUCTS = [
     "slug": "porta-pernada-compacto",
     "category": "Organização",
     "name": "Porta Pernada Compacto",
-    "price": "a partir de R$ 18,90",
+    "price": "a partir de R$ 38,80",
     "img": "assets/img/shopify/porta-pernada-cano-compacto-capa.jpg",
     "link": "https://chumbadas.com.br/products/porta-pernada-compacto?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "30cm",
-        "R$ 18,90"
+        "R$ 38,80"
       ],
       [
         "60cm",
@@ -2393,7 +2393,7 @@ window.PRODUCTS = [
     "section": "Organização",
     "category": "Organização",
     "name": "Suporte para Molinetes",
-    "price": "R$ 22,00",
+    "price": "R$ 29,90",
     "img": "assets/img/shopify/suporte-para-molinetre-capa.png",
     "link": "https://chumbadas.com.br/products/porta-pernada-compacto?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "featured": true,
@@ -2432,7 +2432,7 @@ window.PRODUCTS = [
     "slug": "suporte-de-vara-de-parede",
     "category": "Organização",
     "name": "Suporte de Vara de Parede",
-    "price": "R$ 42,00",
+    "price": "R$ 69,78",
     "img": "assets/img/shopify/capa_2b51a3fb-c17b-4fe6-8a76-6656ccece2b2.png",
     "link": "https://chumbadas.com.br/products/suporte-de-vara-de-parede?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Suporte de Varas de Parede da Chumbada Oficial</p>\n<p>Apresentamos o Suporte de Varas de Parede da Chumbada Oficial, um produto de alta qualidade fabricado com termoplástico resistente e durável. Este suporte é a solução perfeita para armazenar suas varas de pesca de forma organizada, segura e elegante.</p>\n<p>Características Principais:<br>- Material de Alta Qualidade: Fabricado com termoplástico de alta qualidade, garantindo durabilidade e resistência.<br>- Capacidade: Possui 5 compartimentos, cada um projetado para armazenar varas de uma, duas ou três partes, oferecendo versatilidade para diversos tipos de varas de pesca.<br>- Design Inovador: O suporte foi projetado para ser montado na parede ou no teto. Cada compartimento possui uma curvatura específica que assegura que os caniços fiquem guardados de maneira segura, evitando danos.<br>- Conjunto Completo: O Suporte de Varas é composto por um par de peças, lado direito e esquerdo, proporcionando um acabamento impecável com os parafusos escondidos na parte interna, onde as varas estarão armazenadas. Isso resulta em um visual limpo e agradável.<br>- Fácil Instalação: O produto acompanha 6 buchas, 6 parafusos e dois elásticos. Os elásticos são opcionais, recomendados para uso em embarcações ou veículos com cabine, proporcionando segurança extra durante o movimento.</p>\n<p> Benefícios:<br>- Segurança e Organização: Mantenha suas varas de pesca sempre organizadas e protegidas. O design curvado dos compartimentos garante que as varas fiquem firmes e seguras.<br>- Versatilidade: Ideal para ser instalado tanto na parede quanto no teto, adaptando-se facilmente ao espaço disponível em sua casa, barco ou veículo.<br>- Estética: Além de funcional, o suporte de varas também se torna um item decorativo, agregando valor ao ambiente onde está instalado.</p>\n<p>#### Uso Opcional dos Elásticos:<br>Os elásticos incluídos podem ser utilizados para adicionar uma camada extra de segurança, especialmente em ambientes que sofrem com movimentos constantes, como barcos e veículos com cabine. Eles garantem que as varas fiquem ainda mais fixas no suporte.</p>\n<p>Assista ao Nosso Vídeo:<br>Para ver o Suporte de Varas de Parede da Chumbada Oficial em ação, assista ao nosso vídeo completo no canal do YouTube Chumbada Oficial. No vídeo, mostramos o resultado do suporte instalado e como as varas ficam armazenadas. Veja como ele não só organiza suas varas de pesca, mas também adiciona um toque decorativo ao seu espaço.</p>\n<p>Adquira agora o Suporte de Varas de Parede da Chumbada Oficial e transforme a maneira como você organiza e protege suas varas de pesca!</p>\n<!---->",
@@ -2457,13 +2457,13 @@ window.PRODUCTS = [
     "slug": "protetor-de-bobina-p-e-g",
     "category": "Proteção",
     "name": "Protetor de Bobina P e G",
-    "price": "R$ 6,49",
+    "price": "R$ 10,82",
     "img": "assets/img/shopify/capa_c9a07c21-e3f8-46d1-a84c-769fe323c1fc.png",
     "link": "https://chumbadas.com.br/products/protetor-de-bobina-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "6 modelos disponíveis",
-        ""
+        "R$ 10,82"
       ]
     ],
     "description": "Protetor de Bobina Elástico para Molinete<br><br>O Protetor de Bobina Elástico é um inovador acessório desenvolvido para entusiastas da pesca que desejam manter suas linhas de molinete protegidas, organizadas e prontas para uso. Feito com um material elástico de alta qualidade, este produto foi projetado especificamente para cuidar da linha presente na bobina do molinete, proporcionando diversos benefícios aos pescadores.<br><br>Características Principais:<br>1. Proteção Avançada: O material elástico durável do protetor envolve firmemente a bobina do molinete, protegendo a linha contra danos causados por atritos, impactos e arranhões. Isso garante que sua linha permaneça em condições ideais para garantir um desempenho de pesca excelente.<br><br>2. Transporte Seguro: Ao transportar seu equipamento de pesca, o Protetor de Bobina Elástico oferece uma camada adicional de proteção. Ele impede que a linha se solte acidentalmente da bobina durante o transporte, evitando emaranhados e possíveis problemas.<br><br>3. Proteção contra Elementos: O protetor também funciona como uma barreira eficaz contra os elementos naturais. Seja sob o sol escaldante, chuva ou umidade, o material elástico mantém a linha protegida contra os efeitos prejudiciais do clima principalmente quando não estiver em uso por muito tempo.<br><br>4. Facilita o Armazenamento do Snap: Além de cuidar da linha, o Protetor de Bobina Elástico facilita armazenar o snap que está preso ao arranque. Isso elimina a necessidade de usar a unha do carretel para prender o snap, simplificando o processo e economizando tempo.<br><br>5. Fácil de Usar: Com um design inteligente e elástico, o protetor é fácil de colocar e remover da bobina do molinete. Sua flexibilidade permite que se ajuste a uma variedade de tamanhos de molinetes, tornando-o versátil e compatível com diversos modelos.<br><br>- #PescaComMolinete<br>- #AcessóriosDePesca<br>- #ProteçãoDeLinha<br>- #EquipamentoDePesca<br>- #InovaçãoNaPesca<br>- #OrganizaçãoDeLinha<br>- #ProteçãoParaMolinete<br>- #PescaSustentável<br>- #LazerAoArLivre<br>- #TecnologiaPesqueira<br><br>O Protetor de Bobina Elástico é uma solução prática e eficiente para pescadores que desejam preservar suas linhas, garantir a segurança durante o transporte e simplificar a preparação do equipamento. Com sua durabilidade e funcionalidade, ele se torna um aliado essencial para uma experiência de pesca mais agradável e produtiva.<br>",
@@ -2492,21 +2492,21 @@ window.PRODUCTS = [
     "slug": "dedeira-chumbada",
     "category": "Proteção",
     "name": "Dedeira",
-    "price": "R$ 21,45",
+    "price": "R$ 30,00",
     "img": "assets/img/shopify/dedeira.png",
     "link": "https://chumbadas.com.br",
     "vars": [
       [
         "Soft",
-        "R$ 21,45"
+        "R$ 30,00"
       ],
       [
         "Hard",
-        "R$ 21,45"
+        "R$ 30,00"
       ],
       [
         "Ultrasoft",
-        "R$ 21,45"
+        "R$ 30,00"
       ]
     ],
     "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
@@ -2642,7 +2642,7 @@ window.PRODUCTS = [
     "slug": "adaptador-de-carretilha-kit-com-4",
     "category": "Acessórios",
     "name": "Adaptador de Carretilha Kit com 4",
-    "price": "R$ 19,00",
+    "price": "R$ 22,00",
     "img": "assets/img/shopify/suporte-para-carretilhas-capa.png",
     "link": "https://chumbadas.com.br/products/kit-adaptador-de-carretilha?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Adaptador para Carretilha</p>\n<p><em><strong>Este produto NÃO acompanha o suporte para molinetes.</strong></em></p>\n<p>Transforme a organização das suas carretilhas com o Adaptador para Carretilha, fornecido em conjuntos de 4 unidades. Projetado para suportar até 3 carretilhas, este adaptador é o complemento perfeito para o nosso sucesso de vendas, o Suporte de Molinetes.</p>\n<p>Versatilidade e Compatibilidade</p>\n<p>Desenvolvido com a mesma qualidade e atenção aos detalhes do Suporte de Molinetes, o Adaptador para Carretilha permite o armazenamento de diversos modelos e tamanhos de carretilhas, apoiando nas manivelas de forma segura e prática. Os adaptadores podem ser facilmente alocados em diferentes compartimentos do Suporte de Molinetes, ajustando-se ao tamanho da carretilha que será armazenada.</p>\n<p>Montagem Personalizável</p>\n<p>A montagem é extremamente flexível, permitindo que o usuário misture molinetes e carretilhas no mesmo suporte, conforme sua preferência. A recomendação é utilizar 4 Adaptadores de Carretilhas no Suporte de Molinetes, com um espaço de dois vãos livres entre eles, criando assim o espaço ideal para armazenar 3 carretilhas de maneira organizada.</p>\n<p>Estilo e Organização</p>\n<p>Além de funcional, o Suporte de Carretilhas pode se tornar um item decorativo para sua casa, mantendo suas carretilhas organizadas e prontas para uso. O Adaptador para Carretilha é a solução perfeita para pescadores que valorizam a organização e a estética dos seus equipamentos.</p>\n<p>Invista na organização dos seus equipamentos de pesca com o Adaptador para Carretilha e mantenha tudo em ordem com estilo e praticidade!</p>\n<!----><!---->",
@@ -2687,7 +2687,7 @@ window.PRODUCTS = [
     "slug": "carretel-para-chicotes",
     "category": "Acessórios",
     "name": "Carretel para Chicotes",
-    "price": "R$ 1,50",
+    "price": "R$ 2,40",
     "img": "assets/img/shopify/capa.png",
     "link": "https://chumbadas.com.br/products/carretel?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
@@ -2765,13 +2765,13 @@ window.PRODUCTS = [
     "slug": "cobreno-p-m-e-g",
     "category": "Acessórios",
     "name": "Cobrenó P, M e G",
-    "price": "R$ 4,62",
+    "price": "R$ 9,90",
     "img": "assets/img/shopify/pesca-4.jpg",
     "link": "https://chumbadas.com.br/products/cobre-no-pacote-com-40?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Pacote com 40",
-        ""
+        "R$ 9,90"
       ]
     ],
     "swatches": [
@@ -2876,7 +2876,7 @@ window.PRODUCTS = [
     "slug": "elastricot-150m",
     "category": "Acessórios",
     "name": "Elastricot 150m",
-    "price": "R$ 2,30",
+    "price": "R$ 4,00",
     "img": "assets/img/shopify/elastricot-capa.png",
     "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
@@ -2898,7 +2898,7 @@ window.PRODUCTS = [
     "slug": "elastricot-100m",
     "category": "Acessórios",
     "name": "Elastricot 100m",
-    "price": "R$ 1,99",
+    "price": "R$ 4,00",
     "img": "assets/img/shopify/elastricot-capa.png",
     "link": "https://chumbadas.com.br/products/elastricot?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>O elastricot é uma linha elástica muito fina utilizada nas pescarias para fixar melhor a isca possibilitando melhores arremessos sem a perda das mesmas, a medida que o pescador enrola a linha elástica em torno da isca a mesma vai ficando amarrada sem a necessidade de um nó para finalizar.</p>",
@@ -2920,17 +2920,17 @@ window.PRODUCTS = [
     "slug": "iscador-preto-ou-cristal",
     "category": "Acessórios",
     "name": "Iscador Preto ou Cristal",
-    "price": "a partir de R$ 12,80",
+    "price": "R$ 15,70",
     "img": "assets/img/shopify/capa_80941e6b-848a-48e4-85b3-6c626c50a41c.png",
     "link": "https://chumbadas.com.br/products/iscador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Preto",
-        "R$ 12,80"
+        "R$ 15,70"
       ],
       [
         "Cristal",
-        "R$ 12,87"
+        "R$ 15,70"
       ]
     ],
     "description": "<p><span>Esse iscador produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span></p>",
@@ -2952,7 +2952,7 @@ window.PRODUCTS = [
     "slug": "iscador-agulhao",
     "category": "Acessórios",
     "name": "Iscador Agulhão",
-    "price": "R$ 20,00",
+    "price": "R$ 16,00",
     "img": "assets/img/shopify/Agulhao.png",
     "link": "https://chumbadas.com.br/products/iscador-agulhao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Iscador Agulhão – Iscador reforçado confeccionado em inox rígido, não enferruja e cabo termoplástico de engenharia, evitando que o cheiro da isca fique penetrado no mesmo, super resistente, a agulha não escapa do cabo.<br>Muito utilizado para iscar sardinhas inteiras, em pedaços ou mesmo outras iscas como por exemplo lulas. O Iscador Agulhão possui uma ponta altamente penetrante capaz de iscar sardinhas até mesmo congeladas.<br>Modo de usar – espete o Iscador Agulhão no rabo da sardinha e desça a ponta da agulha até a boca da mesma, engate o encastoado no rasgo existente da agulha e suba puxando o cabo de aço do encastoado até o final da sardinha.</p>",
@@ -2972,7 +2972,7 @@ window.PRODUCTS = [
     "slug": "iscador-duplo-branco-ou-cristal",
     "category": "Acessórios",
     "name": "Iscador Duplo Branco ou Cristal",
-    "price": "R$ 14,70",
+    "price": "R$ 16,80",
     "img": "assets/img/shopify/iscador-duplo-capa.png",
     "link": "https://chumbadas.com.br/products/iscador-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<span data-mce-fragment=\"1\">Esse Iscador Duplo produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span>",
@@ -2994,17 +2994,17 @@ window.PRODUCTS = [
     "slug": "carretel-retangular",
     "category": "Acessórios",
     "name": "Carretel Retangular",
-    "price": "a partir de R$ 0,49",
+    "price": "R$ 4,90",
     "img": "assets/img/shopify/carretel_retangular_1.jpg",
     "link": "https://chumbadas.com.br/products/carretel-retangular?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Preto",
-        "R$ 0,49"
+        "R$ 4,90"
       ],
       [
         "Azul",
-        "R$ 0,65"
+        "R$ 4,90"
       ]
     ],
     "description": "<p><span data-sheets-root=\"1\">Carretel Retangular<br><br>O Carretel Retangular é um organizador simples, prático e indispensável para o pescador que gosta de ter tudo pronto para a hora da pescaria. Ideal para chicotes de pesqueiro, lago e outras montagens, ele permite enrolar e armazenar o chicote já no tamanho ideal, deixando tudo muito mais organizado e fácil de usar.<br><br>Com ele, o pescador pode deixar a montagem completa preparada, com boia, anzol e até chumbada, quando necessário, facilitando muito na hora de trocar o conjunto e voltar rapidamente para a água. É a solução perfeita para quem busca agilidade, organização e praticidade na pescaria.<br><br>Compacto e eficiente, o Carretel Retangular ajuda a evitar embolos, protege a montagem e mantém seus chicotes sempre prontos para uso. Um acessório simples, mas que faz toda a diferença no dia a dia do pescador.<br><br>Também contamos com a versão em material Eco, produzida a partir do reaproveitamento de peças que apresentaram falhas no processo produtivo. Esse reaproveitamento não compromete a qualidade do produto, ajuda a reduzir desperdícios dentro da empresa e ainda proporciona um preço mais acessível, unindo economia, eficiência e aproveitamento inteligente de material.<br></span></p>",
@@ -3024,7 +3024,7 @@ window.PRODUCTS = [
     "slug": "micro-snap-cobre-no-m",
     "category": "Acessórios",
     "name": "Micro Snap + Cobre Nó M",
-    "price": "R$ 4,36",
+    "price": "R$ 8,72",
     "img": "assets/img/shopify/snap-mais-cobre-no-capa.png",
     "link": "https://chumbadas.com.br/products/kit-micro-snap-cobre-no-m-10-unidades-de-cada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -3129,7 +3129,7 @@ window.PRODUCTS = [
     "slug": "resgata-isca",
     "category": "Acessórios",
     "name": "Resgata Isca",
-    "price": "R$ 59,00",
+    "price": "R$ 95,30",
     "img": "assets/img/shopify/resgata-isca-capa.png",
     "link": "https://chumbadas.com.br/products/resgata-isca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "Novo Resgata Isca da Chumbada Oficial, item essencial em sua caixa de pesca, não perca mais iscas em enroscos como galhos e pedras.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Fácil manuseio, não há a necessidade de cortar a linha, basta passar a linha no olhal central e descer o Resgata Isca até onde a isca se encontra travada, as correntes irão se enrolar na garateia, puxe, firmemente, e pronto, sua isca estará pronta para outra.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Carretel de borracha ideal para deixar livre no piso do barco evitando batidas, 20 metros de corda altamente resistente.",
@@ -3150,7 +3150,7 @@ window.PRODUCTS = [
     "slug": "saca-anzol-de-competicao-inox",
     "category": "Acessórios",
     "name": "Saca Anzol de Competição Inox",
-    "price": "R$ 24,00",
+    "price": "R$ 37,90",
     "img": "assets/img/shopify/Saca-Anzol-Competition-capa_f4985360-73f3-45d0-83ef-2f0eb7b5515f.png",
     "link": "https://chumbadas.com.br/products/saca-anzol-de-competicao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -3160,11 +3160,11 @@ window.PRODUCTS = [
       ],
       [
         "P",
-        "R$ 24,00"
+        "R$ 37,90"
       ],
       [
         "M",
-        "R$ 24,00"
+        "R$ 37,90"
       ],
       [
         "G",
@@ -3196,7 +3196,7 @@ window.PRODUCTS = [
     "slug": "saca-anzol-desembuchador",
     "category": "Acessórios",
     "name": "Saca Anzol / Desembuchador",
-    "price": "a partir de R$ 8,40",
+    "price": "a partir de R$ 12,00",
     "img": "assets/img/shopify/SacaAnzol_cf57ff93-89b8-4472-a515-639ffbe6871a.jpg",
     "link": "https://chumbadas.com.br/products/saca-anzol-desembuchador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -3206,7 +3206,7 @@ window.PRODUCTS = [
       ],
       [
         "Kit P, M, G",
-        "R$ 20,16"
+        "a partir de R$ 12,00"
       ]
     ],
     "description": "<p>Praticidade e Eficiência e ótimo Custo Benefício<br>O Saca Anzol é o acessório indispensável para pescadores que buscam praticidade e eficiência. Fabricado em plástico de alta qualidade, ele foi desenvolvido especialmente para facilitar a retirada do anzol quando o peixe engole profundamente, preservando a integridade do equipamento e, sempre que possível, do peixe.<br>Ideal para pescarias de praia , este desembuchador combina eficiência e custo-benefício , sendo leve, resistente e acessível. Disponível em três tamanhos – pequeno, médio e grande –, ele atende às necessidades de diferentes tipos de pesca e espécies de peixes. Para maior conveniência, oferecemos também o kit completo com os três tamanhos, garantindo que você esteja preparado para qualquer situação.<br>Escolha o Saca Anzol / Desembuchador e torne suas pescarias ainda mais produtivas e práticas!</p>",
@@ -3234,17 +3234,17 @@ window.PRODUCTS = [
     "slug": "agulha-de-tarrafa",
     "category": "Acessórios",
     "name": "Agulha de Tarrafa",
-    "price": "a partir de R$ 3,50",
+    "price": "R$ 5,00",
     "img": "assets/img/shopify/agulha-capa.png",
     "link": "https://chumbadas.com.br/products/agulha-de-tarrafa?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "15cm",
-        "R$ 3,50"
+        "R$ 5,00"
       ],
       [
         "20cm",
-        "R$ 3,85"
+        "R$ 5,00"
       ]
     ],
     "swatches": [
@@ -3278,7 +3278,7 @@ window.PRODUCTS = [
     "slug": "alicate-de-pesca",
     "category": "Acessórios",
     "name": "Alicate de Pesca",
-    "price": "a partir de R$ 6,90",
+    "price": "a partir de R$ 9,94",
     "img": "assets/img/shopify/alicate-capa.png",
     "link": "https://chumbadas.com.br/products/alicate-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -3288,7 +3288,7 @@ window.PRODUCTS = [
       ],
       [
         "Plástico Glow",
-        "R$ 7,90"
+        "R$ 11,00"
       ]
     ],
     "swatches": [
@@ -3330,7 +3330,7 @@ window.PRODUCTS = [
     "slug": "ima-fix",
     "category": "Acessórios",
     "name": "Imã Fix",
-    "price": "R$ 41,40",
+    "price": "R$ 69,00",
     "img": "assets/img/shopify/ima-fix-01.jpg",
     "link": "https://chumbadas.com.br/products/ima-fix?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>O Imã Fix é o acessório indispensável para pescadores que buscam praticidade e segurança ao preparar seus equipamentos. Fabricado com borracha de alta qualidade e equipado com dois ímãs extremamente fortes, ele se adere firmemente a qualquer superfície ferrosa, permitindo que você apoie suas varas e acessórios de pesca sem preocupações.</p>\n<p>Sua borracha macia e resistente protege a lataria do carro contra arranhões e danos, garantindo um uso seguro e confiável. Compacto e portátil, o Imã Fix pode ser guardado facilmente em qualquer parte do carro, pronto para ser utilizado assim que você chegar ao seu destino de pesca. Basta fixá-lo na lataria e apoiar as varas inclinadas sem o risco de escorregarem ou caírem, graças à força dos ímãs.</p>\n<p>Seja na praia, no rio, no pesqueiro ou em qualquer outro local, o Imã Fix é a solução prática e eficiente para organizar seus equipamentos. Ideal para pescadores que valorizam qualidade, segurança e conveniência.</p>",
@@ -3352,7 +3352,7 @@ window.PRODUCTS = [
     "slug": "amarra-vara-velcro",
     "category": "Acessórios",
     "name": "Amarra Vara Velcro",
-    "price": "R$ 17,90",
+    "price": "R$ 26,00",
     "img": "assets/img/shopify/capa-apoio-de-vara-velcro.jpg",
     "link": "https://chumbadas.com.br/products/amarra-vara-velcro?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Amarra Vara Velcro - Versatilidade e Praticidade na Sua Pescaria</p><br>\n<p>O Amarra Vara Velcro é um acessório indispensável para qualquer pescador que preza pela organização e praticidade. Fabricado em borracha de alta qualidade, o produto é extremamente versátil e durável, proporcionando diferentes formas de utilização tanto durante a pescaria quanto no transporte dos equipamentos.</p><br>\n<p>Com um design inovador, o Amarra Vara Velcro conta com uma faixa de velcro de 50 cm, que facilita a amarração das varas ou do suporte em diversos locais, como guarda-corpos, decks de pesca com gradil, cadeiras e até mesmo no bagageiro de veículos. Isso permite que você transporte as varas com carretilhas já montadas e prontas para o uso, garantindo agilidade e segurança no manuseio dos equipamentos.</p><br>\n<p>Além de ser um suporte prático para varas, o produto também serve como um eficiente amarrador, garantindo que as varas fiquem firmes e bem posicionadas, mesmo em locais de difícil fixação. Sua estrutura de borracha proporciona alta aderência e flexibilidade, adaptando-se perfeitamente a diferentes diâmetros de varas e locais de apoio, evitando deslizamentos e mantendo as varas seguras e estáveis durante toda a pescaria.</p><br>\n<p>Com a adição do velcro de 50 cm, o Amarra Vara Velcro é capaz de oferecer uma fixação ainda mais segura e eficiente, possibilitando amarrações rápidas e descomplicadas em praticamente qualquer superfície. Seja para apoiar as varas durante o uso ou para amarrá-las com segurança no transporte, o Amarra Vara Velcro é a solução definitiva para organização e funcionalidade no seu dia a dia de pesca.</p>",
@@ -3373,7 +3373,7 @@ window.PRODUCTS = [
     "slug": "adaptador-da-secretaria",
     "category": "Acessórios",
     "name": "Adaptador da Secretária",
-    "price": "R$ 19,00",
+    "price": "R$ 132,90",
     "img": "assets/img/shopify/adaptador-secretaria-novo.jpg",
     "link": "https://chumbadas.com.br/products/adaptador-da-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
@@ -3412,13 +3412,13 @@ window.PRODUCTS = [
     "slug": "mini-secretaria",
     "category": "Acessórios",
     "name": "Mini Secretária",
-    "price": "a partir de R$ 3,90",
+    "price": "R$ 14,90",
     "img": "assets/img/shopify/mini_secretaria.jpg",
     "link": "https://chumbadas.com.br/products/mini-secretaria?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "PretoEco",
-        "R$ 3,90"
+        "R$ 14,90"
       ],
       [
         "Colorido",
@@ -3439,7 +3439,8 @@ window.PRODUCTS = [
       "Funções": "Bandeja de apoio compacta para tesoura, saca-anzol, iscas e preparo rápido de montagens na praia",
       "Compatibilidade": "Encaixe em suportes de vara Slim, Premium ou canos de 2 polegadas"
     },
-    "section": "Acessórios"
+    "section": "Lançamentos",
+    "featured": true
   },
   {
     "id": 76,
@@ -3493,25 +3494,25 @@ window.PRODUCTS = [
     "section": "Vestuário",
     "category": "Vestuário",
     "name": "Camisa de Pesca",
-    "price": "R$ 95,00",
+    "price": "R$ 142,00",
     "img": "assets/img/shopify/camisa.png",
     "link": "https://chumbadas.com.br/products/camiseta-de-pesca-masculina?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "G",
-        ""
+        "R$ 142,00"
       ],
       [
         "XG",
-        ""
+        "R$ 142,00"
       ],
       [
         "XXG",
-        ""
+        "R$ 142,00"
       ],
       [
         "EXG",
-        ""
+        "R$ 142,00"
       ]
     ],
     "description": "<p>Camisa 100% poliester, com fator de proteção solar 35. Estampa em impressão digital.</p>\n<div class=\"table-responsive\" style=\"overflow-x:auto; margin-top: 15px;\">\n    <table class=\"specs-table\">\n        <thead>\n            <tr>\n                <th>MEDIDA (CM)</th>\n                <th>P</th>\n                <th>M</th>\n                <th>G</th>\n                <th>GG</th>\n                <th>XG</th>\n                <th>XXG</th>\n                <th>EXG</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td><strong>TÓRAX</strong></td>\n                <td>52</td>\n                <td>55</td>\n                <td>58</td>\n                <td>60</td>\n                <td>64</td>\n                <td>67</td>\n                <td>70</td>\n            </tr>\n            <tr>\n                <td><strong>COMPRIMENTO</strong></td>\n                <td>70</td>\n                <td>72</td>\n                <td>74</td>\n                <td>78</td>\n                <td>80</td>\n                <td>81</td>\n                <td>82</td>\n            </tr>\n            <tr>\n                <td><strong>MANGAS</strong></td>\n                <td>82</td>\n                <td>84</td>\n                <td>86</td>\n                <td>88</td>\n                <td>90</td>\n                <td>93</td>\n                <td>95</td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n",
@@ -3531,7 +3532,7 @@ window.PRODUCTS = [
     "slug": "avental-chumbada",
     "category": "Vestuário",
     "name": "Avental Chumbada",
-    "price": "R$ 31,27",
+    "price": "R$ 62,54",
     "img": "assets/img/shopify/avental-capa.png",
     "link": "https://chumbadas.com.br/products/avental-chumbada-bolso-duplo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p>Apresentamos o Avental Pescador: Com um tecido de fácil limpeza, este avental foi pensado para os apaixonados por pesca! Com dois bolsos estrategicamente posicionados, você pode guardar seu saca anzol, iscador e outros acessórios, tornando tudo mais prático. Ganhe tempo e agilidade nas etapas da pesca!</p>",
@@ -3620,13 +3621,13 @@ window.PRODUCTS = [
     "slug": "toalha-de-mao",
     "category": "Vestuário",
     "name": "Toalha de Mão",
-    "price": "R$ 10,75",
+    "price": "R$ 21,50",
     "img": "assets/img/shopify/toalha-capa.png",
     "link": "https://chumbadas.com.br/products/toalha-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "6 modelos disponíveis",
-        ""
+        "R$ 21,50"
       ]
     ],
     "description": "Apresentamos a Toalha Multiuso de Pesca da Chumbada Oficial 60x35: a companheira essencial para todas as suas aventuras à beira d'água. Projetada com paixão e precisão para os entusiastas da pesca, nossa inovadora toalha une funcionalidade, durabilidade e conveniência em um único produto.<br><br>Com suas generosas dimensões de 60x35, a Toalha da Chumbada Oficial oferece uma superfície ampla e altamente absorvente para atender a uma variedade de necessidades durante suas atividades de pesca. Seu material exclusivo, composto por um pano de fácil limpeza, combina a capacidade de absorção de água com uma textura que permite a remoção eficiente de sujeira, lama e detritos dos equipamentos e das mãos sendo de fácil limpeza após o uso.<br><br>O diferencial da Toalha da Chumbada Oficial reside em sua resistência e aderência excepcionais. Seja para segurar um peixe com esporões, enxugar as mãos molhadas ou limpar cuidadosamente seus utensílios, esta toalha foi desenvolvida para superar desafios diversos. A textura do tecido permite que você tenha uma firmeza segura. <br><br>Além disso, a Toalha da Chumbada Oficial 60x35 foi concebida para ser compacta e leve, tornando-a facilmente transportável em suas aventuras. Seu design de alta qualidade garante a longevidade, resistindo ao desgaste do ambiente externo e ao uso frequente.<br><br>**Características da Toalha da Chumbada Oficial 60x35:**<br><br>- Dimensões: 60x35 cm, oferecendo uma área ampla de uso.<br>- Régua Integrada: Possui uma régua de 40 cm para medir com precisão o peixe capturado.<br>- Material de Fácil Limpeza: Permite a remoção rápida de sujeira e detritos.<br>- Absorção Eficiente: Mantém suas mãos, equipamentos e peixes limpos e secos.<br>- Textura de Aderência: Manipule peixes com esporões e utensílios com segurança.<br>- Durabilidade Excepcional: Construída para resistir ao uso árduo ao ar livre.<br>- Leve e Compacta: Perfeita para transportar em suas aventuras de pesca.<br><br>Seja você um pescador experiente ou um amante da natureza que deseja explorar a pesca, a Toalha da Chumbada Oficial 60x35 é a parceira confiável que aprimorará sua experiência. Desde a secagem rápida das mãos até a manipulação cuidadosa de peixes espinhosos e a medição precisa, essa toalha versátil e funcional está pronta para se tornar um item indispensável em todas as suas jornadas de pesca.<br>",
@@ -3695,33 +3696,33 @@ window.PRODUCTS = [
     "section": "Vestuário",
     "category": "Vestuário",
     "name": "Calça Corta Vento Esporte",
-    "price": "R$ 99,90",
+    "price": "R$ 199,80",
     "img": "assets/images/calca-corta-vento-esporte-preta-545adbbf.png",
     "link": "https://chumbadas.com.br/products/calca-corta-vento-esporte?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "P",
-        ""
+        "R$ 199,80"
       ],
       [
         "M",
-        ""
+        "R$ 199,80"
       ],
       [
         "G",
-        ""
+        "R$ 199,80"
       ],
       [
         "GG",
-        ""
+        "R$ 199,80"
       ],
       [
         "1XG",
-        ""
+        "R$ 199,80"
       ],
       [
         "2XG",
-        ""
+        "R$ 199,80"
       ]
     ],
     "swatches": [
@@ -3750,33 +3751,33 @@ window.PRODUCTS = [
     "slug": "calca-elastic-comfort",
     "category": "Vestuário",
     "name": "Calça Elastic Comfort",
-    "price": "R$ 129,90",
+    "price": "R$ 259,80",
     "img": "assets/images/calca-elastica-comfort-verde-d9d9f7c1.png",
     "link": "https://chumbadas.com.br/products/calca-elastic-comfort?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "P",
-        ""
+        "R$ 259,80"
       ],
       [
         "M",
-        ""
+        "R$ 259,80"
       ],
       [
         "G",
-        ""
+        "R$ 259,80"
       ],
       [
         "GG",
-        ""
+        "R$ 259,80"
       ],
       [
         "1XG",
-        ""
+        "R$ 259,80"
       ],
       [
         "2XG",
-        ""
+        "R$ 259,80"
       ]
     ],
     "swatches": [
@@ -3806,33 +3807,33 @@ window.PRODUCTS = [
     "slug": "blusa-corta-vento-comfort",
     "category": "Vestuário",
     "name": "Blusa Corta Vento Comfort",
-    "price": "R$ 155,00",
+    "price": "R$ 310,00",
     "img": "assets/img/shopify/Corta-vento-confort-preta-01.jpg",
     "link": "https://chumbadas.com.br/products/blusa-corta-vento-comfort?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "P",
-        ""
+        "R$ 310,00"
       ],
       [
         "M",
-        ""
+        "R$ 310,00"
       ],
       [
         "G",
-        ""
+        "R$ 310,00"
       ],
       [
         "GG",
-        ""
+        "R$ 310,00"
       ],
       [
         "1XG",
-        ""
+        "R$ 310,00"
       ],
       [
         "2XG",
-        ""
+        "R$ 310,00"
       ]
     ],
     "swatches": [
@@ -3866,33 +3867,33 @@ window.PRODUCTS = [
     "slug": "blusa-corta-vento-esporte",
     "category": "Vestuário",
     "name": "Blusa Corta Vento Esporte",
-    "price": "R$ 119,00",
+    "price": "R$ 238,00",
     "img": "assets/img/shopify/capa_29c7635b-6c50-4d01-ab38-79cc9c4e900d.png",
     "link": "https://chumbadas.com.br/products/blusa-corta-vento-chumbada-1?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "P",
-        ""
+        "R$ 238,00"
       ],
       [
         "M",
-        ""
+        "R$ 238,00"
       ],
       [
         "G",
-        ""
+        "R$ 238,00"
       ],
       [
         "GG",
-        ""
+        "R$ 238,00"
       ],
       [
         "1XG",
-        ""
+        "R$ 238,00"
       ],
       [
         "2XG",
-        ""
+        "R$ 238,00"
       ]
     ],
     "swatches": [
@@ -3941,29 +3942,29 @@ window.PRODUCTS = [
     "slug": "blusa-corta-vento-presa-viva",
     "category": "Vestuário",
     "name": "Blusa Corta Vento Presa Viva",
-    "price": "R$ 260,00",
+    "price": "R$ 520,00",
     "img": "assets/img/shopify/corta-vento-capa.png",
     "link": "https://chumbadas.com.br/products/blusa-corta-vento-presa-viva-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "P",
-        ""
+        "R$ 520,00"
       ],
       [
         "M",
-        ""
+        "R$ 520,00"
       ],
       [
         "G",
-        ""
+        "R$ 520,00"
       ],
       [
         "GG",
-        ""
+        "R$ 520,00"
       ],
       [
         "EXG",
-        ""
+        "R$ 520,00"
       ]
     ],
     "description": "<p>Blusa Corta Vento - Alta Qualidade e Versatilidade</p>\n<p>Descubra a Blusa Corta Vento, projetada para oferecer proteção e conforto em qualquer ocasião. Feita com material de alta qualidade, esta blusa é ideal para bloquear o vento, mantendo você aquecido e protegido. </p>\n<p>Com um design ultraleve e compacto, a Blusa Corta Vento é perfeita para ser levada em suas aventuras de pescaria sem ocupar espaço na sua mochila. Além disso, sua beleza e estilo tornam-a uma peça versátil, adequada para o uso no dia a dia. </p>\n<p>Disponível na elegante cor azul escuro, esta blusa não só proporciona funcionalidade, mas também um toque moderno ao seu guarda-roupa. Seja para enfrentar o vento frio durante a pescaria ou para compor um visual casual, a Blusa Corta Vento é a escolha ideal para quem busca praticidade sem abrir mão do estilo.</p>\n<!---->\n<h4>Tabela de Medidas</h4>\n<table class=\"size-table\">\n  <thead>\n    <tr>\n      <th>Tamanho</th>\n      <th>P</th>\n      <th>M</th>\n      <th>G</th>\n      <th>GG</th>\n      <th>EXG</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Largura</td>\n      <td>56</td>\n      <td>58</td>\n      <td>60</td>\n      <td>62</td>\n      <td>68</td>\n    </tr>\n    <tr>\n      <td>Altura</td>\n      <td>65</td>\n      <td>67</td>\n      <td>70</td>\n      <td>72</td>\n      <td>80</td>\n    </tr>\n  </tbody>\n</table>\n",
@@ -3979,5 +3980,189 @@ window.PRODUCTS = [
       "Proteção": "Bloqueio de vento e conforto térmico excepcional na beira da água"
     },
     "section": "Vestuário"
+  },
+  {
+    "id": 86,
+    "slug": "micanga-micro-tubo",
+    "section": "Suportes e organização",
+    "category": "Montagem",
+    "name": "Miçanga Micro Tubo",
+    "price": "R$ 18,90",
+    "img": "assets/img/shopify/micanga-micro-tubo.jpg",
+    "link": "https://chumbadas.com.br/products/micanga-micro-tubo?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "featured": false,
+    "vars": [
+      [
+        "Amarelo",
+        "R$ 18,90"
+      ],
+      [
+        "Areia",
+        "R$ 18,90"
+      ],
+      [
+        "Azul",
+        "R$ 18,90"
+      ],
+      [
+        "Azul Maya",
+        "R$ 18,90"
+      ],
+      [
+        "Azul Tiffany",
+        "R$ 18,90"
+      ],
+      [
+        "Camaleão",
+        "R$ 18,90"
+      ],
+      [
+        "Laranja",
+        "R$ 18,90"
+      ],
+      [
+        "Pink",
+        "R$ 18,90"
+      ],
+      [
+        "Preto",
+        "R$ 18,90"
+      ],
+      [
+        "Rosa",
+        "R$ 18,90"
+      ],
+      [
+        "Roxo",
+        "R$ 18,90"
+      ],
+      [
+        "Verde Esmeralda",
+        "R$ 18,90"
+      ],
+      [
+        "Verde Floresta",
+        "R$ 18,90"
+      ],
+      [
+        "Verde Limão",
+        "R$ 18,90"
+      ],
+      [
+        "Vermelho",
+        "R$ 18,90"
+      ]
+    ],
+    "swatches": [
+      [
+        "Amarelo",
+        "#facc15"
+      ],
+      [
+        "Areia",
+        "#ece0ca"
+      ],
+      [
+        "Azul",
+        "#2563eb"
+      ],
+      [
+        "Azul Maya",
+        "#73c2fb"
+      ],
+      [
+        "Azul Tiffany",
+        "#0abab5"
+      ],
+      [
+        "Camaleão",
+        "linear-gradient(45deg, #3b82f6, #10b981, #f59e0b)"
+      ],
+      [
+        "Laranja",
+        "#f97316"
+      ],
+      [
+        "Pink",
+        "#ec4899"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Rosa",
+        "#f472b6"
+      ],
+      [
+        "Roxo",
+        "#7c3aed"
+      ],
+      [
+        "Verde Esmeralda",
+        "#50c878"
+      ],
+      [
+        "Verde Floresta",
+        "#228b22"
+      ],
+      [
+        "Verde Limão",
+        "#ccff00"
+      ],
+      [
+        "Vermelho",
+        "#dc2626"
+      ]
+    ],
+    "description": "<p>A Miçanga Microtubo da Chumbada Oficial é um componente especialmente projetado para atuar como uma superfície de apoio para o rotor de Engate Rápido, Miçanga Rotor ou mesmo Destorcedores pequenos que prendem as pernadas do chicote de pesca.</p>\n<p>Sua principal característica é proporcionar um baixo atrito na corrente de água, durante o giro do rotor, durante o arremesso e recolhimento otimizando o desempenho do sistema.</p>\n<p>Essa miçanga é fabricada em tamanho reduzido, permitindo um encaixe preciso e eficiente. Com sua tecnologia especializada, ela contribui para a suavidade e eficácia do conjunto de pesca, tornando essa experiência ainda mais agradável e produtiva.</p>",
+    "images": [
+      "assets/img/shopify/micanga-micro-tubo.jpg"
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "jaqueta-de-pesca",
+    "section": "Vestuário técnico",
+    "category": "Vestuário",
+    "name": "Jaqueta de Pesca",
+    "price": "R$ 399,00",
+    "img": "assets/img/shopify/jaqueta-de-pesca.png",
+    "link": "https://chumbadas.com.br/products/jaqueta-de-pesca?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "featured": false,
+    "vars": [
+      [
+        "P",
+        "R$ 399,00"
+      ],
+      [
+        "M",
+        "R$ 399,00"
+      ],
+      [
+        "G",
+        "R$ 399,00"
+      ],
+      [
+        "GG",
+        "R$ 399,00"
+      ],
+      [
+        "EGG",
+        "R$ 399,00"
+      ],
+      [
+        "1XG",
+        "R$ 399,00"
+      ],
+      [
+        "2XG",
+        "R$ 399,00"
+      ]
+    ],
+    "description": "<p><strong>Jaqueta de Pesca Chumbada Oficial</strong></p>\n<p>Mantenha-se aquecido e protegido com a Jaqueta de Pesca Chumbada Oficial. Com uma arte exclusiva de um pescador nas costas, esta jaqueta combina estilo e funcionalidade. Feita em azul escuro, é perfeita para dias frios e ventosos, oferecendo conforto térmico e resistência ao vento. A frase \"Chumbada Oficial\" está estampada em uma manga, enquanto \"Pescar é Viver\" na outra, reforça a paixão pela pesca. Ideal para pescadores que buscam desempenho e estilo nas suas aventuras.</p>",
+    "images": [
+      "assets/img/shopify/jaqueta-de-pesca.png"
+    ]
   }
 ];
