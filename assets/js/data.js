@@ -2,9 +2,9 @@
 // Base de dados gerada dinamicamente com informações de produtos e variações
 
 window.CONFIG = {
-  whatsappNumber: "5511941900602", // Altere para o número de atendimento oficial
-  showPrices: true, // Define se exibe preços por padrão (true) ou se oculta mostrando 'Sob Consulta' (false)
-  whatsappMessageTemplate: "Olá! Tenho interesse no produto: {productName}\nCategoria: {category}\nTamanho/Variação: {variation}\nCor: {color}\nCatalogo: V2"
+  "whatsappNumber": "5511941900602",
+  "showPrices": true,
+  "whatsappMessageTemplate": "Olá! Tenho interesse no produto: {productName}\nCategoria: {category}\nTamanho/Variação: {variation}\nCor: {color}\nCatalogo: V2"
 };
 
 window.PRODUCTS = [
@@ -908,6 +908,10 @@ window.PRODUCTS = [
     "img": "assets/img/shopify/kit-enrolador-laranja-capa.png",
     "link": "https://chumbadas.com.br/products/kit-enrolador?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
+      [
+        "Natural",
+        "R$ 135,00"
+      ],
       [
         "Colorido",
         "R$ 150,00"
@@ -2187,71 +2191,71 @@ window.PRODUCTS = [
     "vars": [
       [
         "Porta Pernada Completo - 20cm",
-        ""
+        "a partir de R$ 11,84"
       ],
       [
         "Porta Pernada Completo - 30cm",
-        ""
+        "a partir de R$ 13,06"
       ],
       [
         "Porta Pernada Completo - 30cm+30cm",
-        ""
+        "a partir de R$ 23,43"
       ],
       [
         "Porta Pernada Completo - 40cm",
-        ""
+        "a partir de R$ 14,38"
       ],
       [
         "Porta Pernada Completo - 50cm",
-        ""
+        "a partir de R$ 15,71"
       ],
       [
         "Porta Pernada Completo - 60cm",
-        ""
+        "a partir de R$ 17,23"
       ],
       [
         "Porta Pernada Completo - 70cm",
-        ""
+        "a partir de R$ 18,65"
       ],
       [
         "Porta Pernada Completo - 80cm",
-        ""
+        "a partir de R$ 20,18"
       ],
       [
         "Porta Pernada Completo - 100cm",
-        ""
+        "a partir de R$ 23,13"
       ],
       [
         "Somente Cano - 20cm",
-        ""
+        "a partir de R$ 4,95"
       ],
       [
         "Somente Cano - 30cm",
-        ""
+        "a partir de R$ 6,17"
       ],
       [
         "Somente Cano - 40cm",
-        ""
+        "a partir de R$ 7,49"
       ],
       [
         "Somente Cano - 50cm",
-        ""
+        "a partir de R$ 8,82"
       ],
       [
         "Somente Cano - 60cm",
-        ""
+        "a partir de R$ 10,34"
       ],
       [
         "Somente Cano - 70cm",
-        ""
+        "a partir de R$ 11,76"
       ],
       [
         "Somente Cano - 80cm",
-        ""
+        "a partir de R$ 13,29"
       ],
       [
         "Somente Cano - 100cm",
-        ""
+        "a partir de R$ 16,24"
       ]
     ],
     "swatches": [
@@ -2346,11 +2350,11 @@ window.PRODUCTS = [
     "vars": [
       [
         "30cm",
-        ""
+        "R$ 18,90"
       ],
       [
         "60cm",
-        ""
+        "R$ 28,90"
       ]
     ],
     "swatches": [
@@ -2488,21 +2492,21 @@ window.PRODUCTS = [
     "slug": "dedeira-chumbada",
     "category": "Proteção",
     "name": "Dedeira",
-    "price": "Sob Consulta",
+    "price": "R$ 21,45",
     "img": "assets/img/shopify/dedeira.png",
     "link": "https://chumbadas.com.br",
     "vars": [
       [
         "Soft",
-        "Sob Consulta"
+        "R$ 21,45"
       ],
       [
         "Hard",
-        "Sob Consulta"
+        "R$ 21,45"
       ],
       [
         "Ultrasoft",
-        "Sob Consulta"
+        "R$ 21,45"
       ]
     ],
     "description": "<p>A Dedeira da Chumbada Oficial é o acessório ideal para proteger os dedos durante os arremessos. Disponível nas variações Soft, Hard e Ultrasoft para se adequar a sua pescaria.</p>",
