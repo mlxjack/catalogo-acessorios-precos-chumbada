@@ -2234,71 +2234,71 @@ window.PRODUCTS = [
     "vars": [
       [
         "Porta Pernada Completo - 20cm",
-        "R$ 5,94"
+        "a partir de R$ 11,84"
       ],
       [
         "Porta Pernada Completo - 30cm",
-        "R$ 7,40"
+        "a partir de R$ 13,06"
       ],
       [
         "Porta Pernada Completo - 30cm+30cm",
-        "R$ 7,40"
+        "a partir de R$ 23,43"
       ],
       [
         "Porta Pernada Completo - 40cm",
-        "R$ 8,99"
+        "a partir de R$ 14,38"
       ],
       [
         "Porta Pernada Completo - 50cm",
-        "R$ 10,58"
+        "a partir de R$ 15,71"
       ],
       [
         "Porta Pernada Completo - 60cm",
-        "R$ 12,41"
+        "a partir de R$ 17,23"
       ],
       [
         "Porta Pernada Completo - 70cm",
-        "R$ 14,11"
+        "a partir de R$ 18,65"
       ],
       [
         "Porta Pernada Completo - 80cm",
-        "R$ 15,95"
+        "a partir de R$ 20,18"
       ],
       [
         "Porta Pernada Completo - 100cm",
-        "R$ 19,49"
+        "a partir de R$ 23,13"
       ],
       [
         "Somente Cano - 20cm",
-        "R$ 5,94"
+        "a partir de R$ 4,95"
       ],
       [
         "Somente Cano - 30cm",
-        "R$ 7,40"
+        "a partir de R$ 6,17"
       ],
       [
         "Somente Cano - 40cm",
-        "R$ 8,99"
+        "a partir de R$ 7,49"
       ],
       [
         "Somente Cano - 50cm",
-        "R$ 10,58"
+        "a partir de R$ 8,82"
       ],
       [
         "Somente Cano - 60cm",
-        "R$ 12,41"
+        "a partir de R$ 10,34"
       ],
       [
         "Somente Cano - 70cm",
-        "R$ 14,11"
+        "a partir de R$ 11,76"
       ],
       [
         "Somente Cano - 80cm",
-        "R$ 15,95"
+        "a partir de R$ 13,29"
       ],
       [
         "Somente Cano - 100cm",
-        "R$ 19,49"
+        "a partir de R$ 16,24"
       ]
     ],
     "swatches": [
