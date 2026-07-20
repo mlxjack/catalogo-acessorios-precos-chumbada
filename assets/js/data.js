@@ -1328,9 +1328,7 @@ window.PRODUCTS = [
       "assets/img/shopify/sedalha-areia.png",
       "assets/img/shopify/sedalha-azul.png",
       "assets/img/shopify/sedalha-azul-claro.png",
-      "assets/img/shopify/sedalha-rosa.png",
-      "assets/img/shopify/porta_pernada_e_chicotes_branco.jpg",
-      "assets/img/shopify/porta_pernada_e_chicotes_preto.jpg"
+      "assets/img/shopify/sedalha-rosa.png"
     ],
     "video": "",
     "specs": {
