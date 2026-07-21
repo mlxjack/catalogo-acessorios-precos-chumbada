@@ -1641,10 +1641,6 @@ window.PRODUCTS = [
         "#7c3aed"
       ],
       [
-        "Vermelho",
-        "#dc2626"
-      ],
-      [
         "Verde",
         "#22c55e"
       ]
