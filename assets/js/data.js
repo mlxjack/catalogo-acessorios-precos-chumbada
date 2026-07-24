@@ -1617,10 +1617,6 @@ window.PRODUCTS = [
         "#facc15"
       ],
       [
-        "Azul",
-        "#2563eb"
-      ],
-      [
         "Branco",
         "#ffffff"
       ],
