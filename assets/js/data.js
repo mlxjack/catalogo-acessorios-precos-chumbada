@@ -751,7 +751,7 @@ window.PRODUCTS = [
     "id": 39,
     "slug": "snap-universal-cobreno-g",
     "category": "Montagem",
-    "name": "Snap Universal + Cobrenó G",
+    "name": "Snap Universal + Cobre nó G",
     "price": "R$ 4,39",
     "img": "assets/img/shopify/snap-mais-cobre-no-capa.png",
     "link": "https://chumbadas.com.br/products/kit-snap-cobre-no-g-20-unidades-de-cada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
