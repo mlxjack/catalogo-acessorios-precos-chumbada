@@ -3148,7 +3148,7 @@ window.PRODUCTS = [
       ],
       [
         "Kit P, M, G",
-        "a partir de R$ 8,40"
+        "R$ 20,16"
       ]
     ],
     "description": "<p>Praticidade e Eficiência e ótimo Custo Benefício<br>O Saca Anzol é o acessório indispensável para pescadores que buscam praticidade e eficiência. Fabricado em plástico de alta qualidade, ele foi desenvolvido especialmente para facilitar a retirada do anzol quando o peixe engole profundamente, preservando a integridade do equipamento e, sempre que possível, do peixe.<br>Ideal para pescarias de praia , este desembuchador combina eficiência e custo-benefício , sendo leve, resistente e acessível. Disponível em três tamanhos – pequeno, médio e grande –, ele atende às necessidades de diferentes tipos de pesca e espécies de peixes. Para maior conveniência, oferecemos também o kit completo com os três tamanhos, garantindo que você esteja preparado para qualquer situação.<br>Escolha o Saca Anzol / Desembuchador e torne suas pescarias ainda mais produtivas e práticas!</p>",

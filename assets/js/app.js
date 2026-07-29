@@ -506,7 +506,6 @@ function renderProductDetail(p) {
               
               ${CONFIG.showPrices && priceText !== 'Sob Consulta' ? `
                 <div class="info-price-wrapper">
-                  <span class="info-price-label">Preço de Referência:</span>
                   <span class="info-price" id="detail-price-display">${escapeHTML(priceText)}</span>
                 </div>
               ` : ''}
