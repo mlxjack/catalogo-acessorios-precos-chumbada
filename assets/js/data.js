@@ -142,7 +142,7 @@ window.PRODUCTS = [
     "name": "Clip Vara (com fita dupla face)",
     "price": "R$ 4,45",
     "img": "assets/img/shopify/clip_vara.jpg",
-    "link": "#",
+    "link": "https://chumbadas.com.br/products/clip-vara?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "description": "<p><span data-sheets-root=\"1\">O Clip Vara é um acessório de borracha versátil, compacto e muito prático, desenvolvido para apoiar varas de pesca com mais segurança e sem risco de danos.<br><br>Possui fita dupla face de alta resistência na parte traseira, permitindo a fixação em paredes, embarcações, bancadas ou outros locais estratégicos.<br><br>Por ser fabricado em borracha, o Clip Vara protege melhor o equipamento, evitando riscos e oferecendo um apoio firme para uma ou mais varas.<br><br>Existem diversas formas de utilização: pode ser usado individualmente para manter a vara apoiada no chão, ou em pares, fixados lateralmente, para deixar a vara na posição horizontal. Também é uma excelente opção para embarcações, auxiliando no apoio da vara durante a navegação.<br><br>Clip Vara Chumbada Oficial: praticidade, proteção e organização para suas varas de pesca.<br></span></p>",
     "images": [
       "assets/img/shopify/clip_vara.jpg"
@@ -394,6 +394,14 @@ window.PRODUCTS = [
         "R$ 5,80"
       ],
       [
+        "Pastel",
+        "R$ 5,80"
+      ],
+      [
+        "Rapadura",
+        "R$ 5,80"
+      ],
+      [
         "Roxo Estelar",
         "R$ 5,80"
       ],
@@ -434,6 +442,14 @@ window.PRODUCTS = [
       [
         "Luz Laranja",
         "url(assets/img/shopify/holografico-luz-laranja.jpg) center/cover"
+      ],
+      [
+        "Pastel",
+        "url(assets/img/shopify/Pastel.jpg) center/cover"
+      ],
+      [
+        "Rapadura",
+        "url(assets/img/shopify/holografico-rapadura.jpg) center/cover"
       ],
       [
         "Roxo Estelar",
@@ -1160,7 +1176,7 @@ window.PRODUCTS = [
     "name": "Snap Single",
     "price": "R$ 2,88",
     "img": "assets/img/shopify/Snap-Single-19mm-35kg_a69e9534-c0b1-46b7-bc72-b1fb2af9b7f7.png",
-    "link": "https://chumbadas.com.br/collections/terminais",
+    "link": "https://chumbadas.com.br/products/snap-single?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "8mm - 4kg - 8 unidades",
@@ -1197,7 +1213,7 @@ window.PRODUCTS = [
     "name": "Snap Double",
     "price": "a partir de R$ 3,35",
     "img": "assets/img/shopify/Snap-Double-24mm-1-un_fbe828d6-89b4-4a42-ad78-6f5f022f47e9.png",
-    "link": "https://chumbadas.com.br/collections/terminais",
+    "link": "https://chumbadas.com.br/products/snap-double?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "12mm - 8kg - 8 unidades",
@@ -1234,7 +1250,7 @@ window.PRODUCTS = [
     "name": "Snap Gota",
     "price": "R$ 2,15",
     "img": "assets/img/shopify/snap-gota.png",
-    "link": "https://chumbadas.com.br/collections/terminais",
+    "link": "https://chumbadas.com.br/products/snap-gota?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "9mm - 15kg - 10 unidades",
@@ -1262,7 +1278,7 @@ window.PRODUCTS = [
     "name": "Snap Francês",
     "price": "a partir de R$ 3,38",
     "img": "assets/img/shopify/Snap-Frances-35mm-frente.jpg",
-    "link": "https://chumbadas.com.br/collections/terminais",
+    "link": "https://chumbadas.com.br/products/kit-snap-frances?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "10mm - 5kg - 10 unidades",
@@ -1391,7 +1407,7 @@ window.PRODUCTS = [
     "slug": "regua-cantoneira",
     "category": "Medição",
     "name": "Régua Cantoneira",
-    "price": "a partir de R$ 5,49",
+    "price": "R$ 16,79",
     "img": "assets/img/shopify/Sem-Titulo-1_868592f8-fda6-44da-a423-eacee7dd80a2.png",
     "link": "https://chumbadas.com.br/products/regua-cantoneira?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -1503,7 +1519,7 @@ window.PRODUCTS = [
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte de Vara Premium Completo",
-    "price": "a partir de R$ 44,47",
+    "price": "R$ 71,00",
     "img": "assets/img/shopify/completo-capa.png",
     "link": "https://chumbadas.com.br/products/suporte-de-vara-calao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -1513,15 +1529,15 @@ window.PRODUCTS = [
       ],
       [
         "1,20m",
-        "a partir de R$ 53,36"
+        "R$ 79,89"
       ],
       [
         "1,35m",
-        "a partir de R$ 60,03"
+        "R$ 86,55"
       ],
       [
         "1,50m",
-        "a partir de R$ 66,72"
+        "R$ 93,24"
       ],
       [
         "Somente copo",
@@ -1533,19 +1549,19 @@ window.PRODUCTS = [
       ],
       [
         "Barra 1m",
-        "a partir de R$ 44,47"
+        "R$ 44,47"
       ],
       [
         "Barra 1,20m",
-        "a partir de R$ 44,47"
+        "R$ 53,36"
       ],
       [
         "Barra 1,35m",
-        "a partir de R$ 44,47"
+        "R$ 60,03"
       ],
       [
         "Barra 1,50m",
-        "a partir de R$ 44,47"
+        "R$ 66,72"
       ]
     ],
     "swatches": [
@@ -1592,19 +1608,19 @@ window.PRODUCTS = [
       ],
       [
         "Plástico 60cm",
-        "R$ 16,10"
+        "R$ 19,55"
       ],
       [
         "Plástico 85cm",
-        "R$ 16,10"
+        "R$ 26,45"
       ],
       [
         "Plástico 1m",
-        "R$ 16,10"
+        "R$ 28,75"
       ],
       [
         "Plástico 1,2m",
-        "R$ 16,10"
+        "R$ 33,35"
       ],
       [
         "Borracha 40cm",
@@ -1744,21 +1760,21 @@ window.PRODUCTS = [
     "section": "Suportes",
     "category": "Suportes",
     "name": "Suporte Horizontal Completo",
-    "price": "a partir de R$ 9,20",
+    "price": "R$ 22,20",
     "img": "assets/img/shopify/photo_2025-03-24_07-29-37_2.jpg",
     "link": "https://chumbadas.com.br/products/suporte-horiziontal?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "40cm",
-        "a partir de R$ 9,20"
+        "R$ 22,20"
       ],
       [
         "60cm",
-        "a partir de R$ 13,80"
+        "R$ 26,80"
       ],
       [
         "85cm",
-        "a partir de R$ 19,55"
+        "R$ 32,55"
       ],
       [
         "1m",
@@ -1960,7 +1976,7 @@ window.PRODUCTS = [
     "name": "Copo para Carretel G",
     "price": "R$ 5,00",
     "img": "assets/img/shopify/pesca-13.jpg",
-    "link": "#",
+    "link": "https://chumbadas.com.br/products/copo-g-chumbada?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "swatches": [
       [
         "Azul",
@@ -2215,7 +2231,7 @@ window.PRODUCTS = [
     "slug": "porta-pernada-cano",
     "category": "Organização",
     "name": "Porta Pernada Cano",
-    "price": "a partir de R$ 4,95",
+    "price": "R$ 11,84",
     "img": "assets/img/shopify/cano-capa.png",
     "link": "https://chumbadas.com.br/products/porta-pernada-cano?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
@@ -2286,6 +2302,14 @@ window.PRODUCTS = [
       [
         "Somente Cano - 100cm",
         "a partir de R$ 16,24"
+      ],
+      [
+        "Trava Linha Cano (Borracha)",
+        "R$ 4,20"
+      ],
+      [
+        "Apoio Anzol Cano",
+        "R$ 2,69"
       ]
     ],
     "swatches": [
@@ -2298,7 +2322,7 @@ window.PRODUCTS = [
         "#2563eb"
       ],
       [
-        "Marrom",
+        "Marrom Claro",
         "#78350f"
       ]
     ],
@@ -2383,22 +2407,26 @@ window.PRODUCTS = [
         "R$ 18,90"
       ],
       [
-        "60cm",
+        "50cm",
         "R$ 28,90"
       ]
     ],
     "swatches": [
       [
-        "Branco",
-        "#ffffff"
-      ],
-      [
         "Azul",
         "#2563eb"
       ],
       [
-        "Marrom Claro",
-        "#d97706"
+        "Cinza",
+        "#94a3b8"
+      ],
+      [
+        "Preto",
+        "#111827"
+      ],
+      [
+        "Violeta",
+        "#7c3aed"
       ]
     ],
     "description": "<p>Porta-Pernada Compacto – O Que Era Bom Ficou Ainda Melhor!</p>\n<p>Agora a organização das suas pernadas ficou ainda mais prática e eficiente com o Porta-Pernada Compacto!</p>\n<p>Com capacidade para armazenar até 68 anzóis distribuídos em 34 divisões, ele mantém suas pernadas organizadas e sempre prontas para uso. Sua principal vantagem é o design compacto e de baixa espessura, permitindo que seja facilmente guardado em pequenos compartimentos, ao contrário do modelo tradicional tipo cano.</p>\n<p>Além disso, sua eficiência na fixação é impressionante: trava pernadas com linhas de 0,10mm a 0,60mm, garantindo segurança e praticidade na hora de armazenar seu material de pesca.</p>\n<p>Feito com material resistente e durável, o Porta-Pernada Compacto é a escolha ideal para pescadores que buscam organização, praticidade e qualidade no transporte de suas pernadas.</p>\n<p>Leve mais praticidade para a sua pescaria!</p>",
@@ -2524,7 +2552,7 @@ window.PRODUCTS = [
     "name": "Dedeira",
     "price": "R$ 21,45",
     "img": "assets/img/shopify/dedeira.png",
-    "link": "https://chumbadas.com.br",
+    "link": "https://chumbadas.com.br/products/dedeira-de-protecao?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "vars": [
       [
         "Soft",
