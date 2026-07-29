@@ -281,7 +281,7 @@ window.PRODUCTS = [
     "vars": [
       [
         "Kit Atrativo Comum 5mm - 5 Filetes com 10 Unidades",
-        ""
+        "R$ 5,80"
       ]
     ],
     "swatches": [
@@ -494,7 +494,7 @@ window.PRODUCTS = [
     "vars": [
       [
         "Kit Mini Atrativo Comum 3mm - 5 Filetes com 10 Unidades",
-        ""
+        "R$ 4,90"
       ]
     ],
     "swatches": [
@@ -870,7 +870,7 @@ window.PRODUCTS = [
     "vars": [
       [
         "Pacote com 500",
-        ""
+        "R$ 6,20"
       ]
     ],
     "swatches": [
@@ -1074,10 +1074,6 @@ window.PRODUCTS = [
       [
         "19kg / 11mm / 12 un",
         "R$ 3,94"
-      ],
-      [
-        "35kg / 15mm / 10 un",
-        "R$ 8,20"
       ],
       [
         "75kg / 25mm / 5 un",
@@ -1406,6 +1402,10 @@ window.PRODUCTS = [
       [
         "100cm",
         "R$ 24,75"
+      ],
+      [
+        "Somente a Cantoneira",
+        "R$ 5,49"
       ]
     ],
     "description": "Régua a prova d'agua com 15cm de largura, as medidas são extremamente precisas e aferidas individualmente.<br data-mce-fragment=\"1\">Cantoneira desenvolvida especialmente para essa finalidade, resistente, cantos arredondados e espessuras com raio para não ter problema no transporte, cola especial, a mesma não desgruda nem em contato com a água.",
@@ -2184,10 +2184,6 @@ window.PRODUCTS = [
         "R$ 169,00"
       ],
       [
-        "Superior",
-        "R$ 108,89"
-      ],
-      [
         "Superior com tubo",
         "R$ 128,92"
       ]
@@ -2429,7 +2425,7 @@ window.PRODUCTS = [
     "name": "Suporte para Molinetes",
     "price": "R$ 22,00",
     "img": "assets/img/shopify/suporte-para-molinetre-capa.png",
-    "link": "https://chumbadas.com.br/products/porta-pernada-compacto?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+    "link": "https://chumbadas.com.br/products/suporte-para-molinetes?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
     "featured": true,
     "swatches": [
       [
@@ -2948,7 +2944,7 @@ window.PRODUCTS = [
     "vars": [
       [
         "10 unidades de cada",
-        ""
+        "R$ 4,36"
       ]
     ],
     "swatches": [
