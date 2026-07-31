@@ -2208,7 +2208,7 @@ window.PRODUCTS = [
       "assets/img/shopify/porta_pernada_e_chicotes_branco.jpg",
       "assets/img/shopify/porta_pernada_e_chicotes_preto.jpg"
     ],
-    "video": "https://www.youtube.com/watch?v=6Zi37etraPI",
+    "video": "https://www.youtube.com/watch?v=hmKuiqs2vT0&t=6s",
     "specs": {
       "Material": "Borracha premium",
       "Comprimento/Medida": "30CM"
