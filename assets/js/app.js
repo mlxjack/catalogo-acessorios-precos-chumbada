@@ -644,8 +644,10 @@ function initDetailSelectors(p) {
         const videoSrc = btn.dataset.videoSrc;
         if (videoSrc.includes('youtube.com') || videoSrc.includes('youtu.be') || videoSrc.includes('embed')) {
           let embedUrl = videoSrc;
-          if (videoSrc.includes('watch?v=')) {
-            embedUrl = videoSrc.replace('watch?v=', 'embed/');
+          const ytMatch = videoSrc.match(/(?:youtu\.be\/|youtube\.com\/watch\?v=)([a-zA-Z0-9_-]{11})/);
+          if (ytMatch) {
+            const startMatch = videoSrc.match(/[?&]t=(\d+)s?/);
+            embedUrl = `https://www.youtube.com/embed/${ytMatch[1]}` + (startMatch ? `?start=${startMatch[1]}` : '');
           }
           mainVideoContainer.innerHTML = `
             <iframe src="${embedUrl}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
