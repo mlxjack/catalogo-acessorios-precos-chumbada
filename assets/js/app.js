@@ -836,12 +836,6 @@ function renderProductDetail(p) {
               </div>
             ` : ''}
 
-            <!-- Descrição Técnica Premium -->
-            <div class="info-section">
-              <h2 class="info-section-title">Descrição</h2>
-              <div class="info-desc">${p.description}</div>
-            </div>
-
             <!-- Ações Principais -->
             <div class="detail-actions">
               <!-- Botão do WhatsApp (Atendimento/Orçamento) -->
@@ -880,6 +874,12 @@ function renderProductDetail(p) {
                   Voltar ao Catálogo
                 </a>
               </div>
+            </div>
+
+            <!-- Descrição Técnica Premium -->
+            <div class="info-section">
+              <h2 class="info-section-title">Descrição</h2>
+              <div class="info-desc">${p.description}</div>
             </div>
           </section>
         </div>
