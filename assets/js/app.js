@@ -108,6 +108,13 @@ function escapeHTML(str) {
   }[c]));
 }
 
+// Converte um preço exibido ("R$ 190,00") pro número usado pela Minha Seleção
+function parsePriceBRL(str) {
+  if (!str) return 0;
+  const num = parseFloat(String(str).replace('R$', '').replace(/\s+/g, '').replace(/\./g, '').replace(',', '.'));
+  return isNaN(num) ? 0 : num;
+}
+
 // Função auxiliar para normalizar textos para pesquisa (remover acentos)
 function normalizeText(str) {
   return String(str)
@@ -845,6 +852,17 @@ function renderProductDetail(p) {
                 Solicitar via WhatsApp
               </button>
 
+              <div class="selecao-add-row">
+                <div class="selecao-qty-stepper">
+                  <button type="button" id="selecao-qty-dec" aria-label="Diminuir quantidade">−</button>
+                  <span id="selecao-qty-value">1</span>
+                  <button type="button" id="selecao-qty-inc" aria-label="Aumentar quantidade">+</button>
+                </div>
+                <button type="button" class="btn btn-secondary" id="btn-add-selecao">
+                  Adicionar à Minha Seleção
+                </button>
+              </div>
+
               <div class="action-row">
                 <!-- Botão do Link Oficial (Shopify) se existir -->
                 ${p.link && p.link !== '#' ? `
@@ -1039,4 +1057,49 @@ function initDetailSelectors(p) {
 
   // Inicializar link pela primeira vez
   updateWhatsappLink();
+
+  // Botão "Adicionar à Minha Seleção"
+  const btnAddSelecao = document.getElementById('btn-add-selecao');
+  const qtyDec = document.getElementById('selecao-qty-dec');
+  const qtyInc = document.getElementById('selecao-qty-inc');
+  const qtyValue = document.getElementById('selecao-qty-value');
+  let selecaoQty = 1;
+
+  if (qtyDec) {
+    qtyDec.addEventListener('click', () => {
+      selecaoQty = Math.max(1, selecaoQty - 1);
+      qtyValue.textContent = selecaoQty;
+    });
+  }
+  if (qtyInc) {
+    qtyInc.addEventListener('click', () => {
+      selecaoQty += 1;
+      qtyValue.textContent = selecaoQty;
+    });
+  }
+  if (btnAddSelecao) {
+    btnAddSelecao.addEventListener('click', () => {
+      if (!window.MinhaSelecao) return;
+      const varIndex = state.selectedVariation[p.id];
+      const colorName = state.selectedColor[p.id];
+      const varLabel = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : '';
+      const priceStr = (p.vars && p.vars[varIndex] && p.vars[varIndex][1]) ? p.vars[varIndex][1] : p.price;
+      const unitPrice = parsePriceBRL(priceStr);
+      if (!unitPrice) return;
+      const variantParts = [];
+      if (colorName) variantParts.push('Cor: ' + colorName);
+      if (varLabel) variantParts.push(varLabel);
+      window.MinhaSelecao.addItem({
+        catalog: 'acessorios',
+        productId: String(p.id),
+        name: p.name,
+        sku: null,
+        variant: variantParts.join(', '),
+        qty: selecaoQty,
+        unitPrice,
+      });
+      selecaoQty = 1;
+      qtyValue.textContent = '1';
+    });
+  }
 }
