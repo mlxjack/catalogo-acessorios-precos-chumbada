@@ -2959,7 +2959,9 @@ window.PRODUCTS = [
       "Somente Cano - 80cm::Marrom Claro": "assets/img/shopify/somente-cano-30cm_e136635e-c403-47ce-a25a-524284107c07.png",
       "Somente Cano - 100cm::Branco": "assets/img/shopify/SomenteCanoBranco_84638a37-5753-4183-a71c-301af262fb5d.jpg",
       "Somente Cano - 100cm::Azul": "assets/img/shopify/SomenteCanoAzul_60d195b3-66f6-4bad-a6fd-b1fc477a1be5.jpg",
-      "Somente Cano - 100cm::Marrom Claro": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png"
+      "Somente Cano - 100cm::Marrom Claro": "assets/img/shopify/somente-cano-60cm_f8423987-a950-424a-9d80-679e41447737.png",
+      "Trava Linha Cano (Borracha)": "assets/img/shopify/trava-linha-capa.png",
+      "Apoio Anzol Cano": "assets/img/shopify/apoio.png"
     },
     "description": "<a href=\"https://youtu.be/tcXANAsZPk8\" title=\"Entenda o Porta Pernada Cano\">Porta Pernada Cano</a> – escolha de maneira fácil a pernada a ser usada, nesse novo organizador de anzóis empatados o pescador tem a opção de guardar 50 ou 100 anzóis (dependendo do tamanho do anzol) nos 50 canais divididos ao redor do produto.<br data-mce-fragment=\"1\">O Porta Pernada Cano é composto por um apoio de anzol, um pedaço de cano de esgoto 50mm padrão de mercado e uma peça de borracha onde é travada a linha, o mesmo será vendido em 8 configurações diferentes 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm e a opção 30/60cm onde é possível guardar pernadas de 30cm e 60cm no mesmo cano pois o Trava Linha Cano de borracha tem um conector onde é possível estender o conjunto com mais canos.<br data-mce-fragment=\"1\">O comprador pode escolher adquirir o Porta Pernada Cano completo, somente o cano já cortado na medida para 30cm, 40cm, 50cm, 60cm, 70cm, 80cm, 100cm ou comprar somente as peças que fazem sua composição o Apoio Anzol Cano ou o Trava Linha Cano (borracha).",
     "images": [
