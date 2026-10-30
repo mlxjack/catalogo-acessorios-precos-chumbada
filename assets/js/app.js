@@ -685,6 +685,7 @@ function renderGrid() {
       ${sectionBreak}
       <article class="product-card ${spanClass}" data-reveal style="--i:${idx % 8}">
         <div class="product-card-media">
+          ${window.BN_ACC ? window.BN_ACC.ribbon(p) : ''}
           ${p.video || (p.videos && p.videos.length) ? `<span class="video-badge">
             <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14" style="margin-right: 4px; vertical-align: middle;">
               <path d="M8 5v14l11-7z"/>
@@ -1058,6 +1059,7 @@ function renderProductDetail(p) {
 
   // Inicializar os seletores interativos
   initDetailSelectors(p);
+  if (window.BN_ACC) window.BN_ACC.afterDetail(p);
   const bz = document.getElementById('banner-zoom');
   if (bz && window.Motion) bz.addEventListener('click', () => window.Motion.lightbox(`assets/img/banners/${p.slug}.webp`, `Banner ${p.name}`));
 }
@@ -1119,7 +1121,7 @@ function initDetailSelectors(p) {
 
   // Função para reconstruir o link do WhatsApp com os dados selecionados
   function updateWhatsappLink() {
-    const selectedColor = state.selectedColor[p.id];
+    const selectedColor = (window.BN_ACC && window.BN_ACC.offLabel(p)) || state.selectedColor[p.id];
     const varIndex = state.selectedVariation[p.id];
     const selectedVar = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : 'Nenhum';
     
@@ -1286,14 +1288,15 @@ function initDetailSelectors(p) {
     btnAddSelecao.addEventListener('click', () => {
       if (!window.MinhaSelecao) return;
       const varIndex = state.selectedVariation[p.id];
-      const colorName = state.selectedColor[p.id];
+      const bnOff = window.BN_ACC && window.BN_ACC.offLabel(p);
+      const colorName = bnOff || state.selectedColor[p.id];
       const varLabel = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : '';
       const priceStr = (p.vars && p.vars[varIndex] && p.vars[varIndex][1]) ? p.vars[varIndex][1] : p.price;
-      const entry = findSkuEntry(p, colorName, varLabel);
+      const entry = bnOff ? null : findSkuEntry(p, colorName, varLabel);
       const unitPrice = entry && entry.price > 0 ? entry.price : parsePriceBRL(priceStr);
       if (!unitPrice) return;
       const variantParts = [];
-      if (colorName) variantParts.push('Cor: ' + colorName);
+      if (colorName) variantParts.push((bnOff ? window.BN_ACC.fieldLabel(p) : 'Cor') + ': ' + colorName);
       if (varLabel && !(colorName && normalizeText(varLabel).trim() === normalizeText(colorName).trim())) variantParts.push(varLabel);
       window.MinhaSelecao.addItem({
         catalog: 'acessorios',
