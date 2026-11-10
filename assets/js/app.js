@@ -656,6 +656,7 @@ function renderGrid() {
       <article class="product-card ${spanClass}" data-reveal style="--i:${idx % 8}">
         <div class="product-card-media">
           ${window.BN_ACC ? window.BN_ACC.ribbon(p) : ''}
+          ${window.ATACADO ? window.ATACADO.ribbon(p) : ''}
           ${p.video || (p.videos && p.videos.length) ? `<span class="video-badge">
             <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14" style="margin-right: 4px; vertical-align: middle;">
               <path d="M8 5v14l11-7z"/>
@@ -1030,6 +1031,7 @@ function renderProductDetail(p) {
   // Inicializar os seletores interativos
   initDetailSelectors(p);
   if (window.BN_ACC) window.BN_ACC.afterDetail(p);
+  if (window.ATACADO) window.ATACADO.afterDetail(p);
   const bz = document.getElementById('banner-zoom');
   if (bz && window.Motion) bz.addEventListener('click', () => window.Motion.lightbox(`assets/img/banners/${p.slug}.webp`, `Banner ${p.name}`));
 }
