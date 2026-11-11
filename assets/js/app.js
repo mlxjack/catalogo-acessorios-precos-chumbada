@@ -1277,7 +1277,7 @@ function initDetailSelectors(p) {
         catalog: 'acessorios',
         productId: String(p.id),
         name: p.name,
-        sku: entry ? String(entry.sku).replace(/^'/, '') : null,
+        sku: entry ? String(entry.sku).replace(/^'/, '') : (bnOff && window.BN_ACC.offSku ? window.BN_ACC.offSku(p) : null),
         variant: variantParts.join(', '),
         qty: selecaoQty,
         unitPrice,
