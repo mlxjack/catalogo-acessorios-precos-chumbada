@@ -1265,8 +1265,11 @@ function initDetailSelectors(p) {
       const varLabel = p.vars && p.vars[varIndex] ? p.vars[varIndex][0] : '';
       const priceStr = (p.vars && p.vars[varIndex] && p.vars[varIndex][1]) ? p.vars[varIndex][1] : p.price;
       const entry = bnOff ? null : findSkuEntry(p, colorName, varLabel);
-      const unitPrice = entry && entry.price > 0 ? entry.price : parsePriceBRL(priceStr);
-      if (!unitPrice) return;
+      const basePrice = entry && entry.price > 0 ? entry.price : parsePriceBRL(priceStr);
+      if (!basePrice) return;
+      // Black November: manda o preco com desconto, igual ao exibido na pagina
+      const bnPct = window.BN_ACC && window.BN_ACC.effectivePct ? window.BN_ACC.effectivePct(p) : 0;
+      const unitPrice = bnPct ? Math.round(basePrice * (100 - bnPct)) / 100 : basePrice;
       const variantParts = [];
       if (colorName) variantParts.push((bnOff ? window.BN_ACC.fieldLabel(p) : 'Cor') + ': ' + colorName);
       if (varLabel && !(colorName && normalizeText(varLabel).trim() === normalizeText(colorName).trim())) variantParts.push(varLabel);

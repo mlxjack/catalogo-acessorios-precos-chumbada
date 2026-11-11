@@ -63,10 +63,13 @@
   }
 
   var offState = {}; // id do produto -> nome escolhido entre as cores fora de padrao
+  var effState = {}; // id do produto -> desconto (0 ou 30) da selecao atual na pagina
 
   window.BN_ACC = {
     rule: rule,
     pct: pct,
+    // desconto da cor/variacao escolhida agora (usado no preco enviado a Minha Selecao)
+    effectivePct: function (p) { return (rule(p) && effState[p.id]) || 0; },
     // selo "-30%" no card da listagem
     ribbon: function (p) {
       var r = rule(p);
@@ -134,6 +137,7 @@
         }
         if (off) effective = PCT;
         if (!colors && !vars && r.on) effective = 0;
+        effState[p.id] = effective;
         var lbl = document.getElementById('selected-color-label');
         if (off && colors && lbl) lbl.textContent = off + ' (fora de padrão)';
         document.querySelectorAll('.bn-offpattern-chip').forEach(function (c) {
