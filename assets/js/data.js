@@ -3589,7 +3589,7 @@ window.PRODUCTS = [
   {
     "id": 22,
     "slug": "iscador-preto-ou-cristal",
-    "skuVariants": [{"opts": ["Preto"], "sku": "PA10066"}, {"opts": ["Cristal"], "sku": "PA11459"}],
+    "skuVariants": [{"opts": ["Preto"], "sku": "PA10066"}, {"opts": ["Cristal"], "sku": "PA11459"}, {"opts": ["Preto sem embalagem"], "sku": "", "price": 9.77, "atacado": [9.77, 273.8, 886.91, 7839.5]}, {"opts": ["Cristal sem embalagem"], "sku": "", "price": 9.77, "atacado": [9.77, 273.8, 886.91, 7839.5]}],
     "category": "Acessórios",
     "name": "Iscador Preto ou Cristal",
     "price": "R$ 12,87",
@@ -3603,9 +3603,17 @@ window.PRODUCTS = [
       [
         "Cristal",
         "R$ 12,87"
+      ],
+      [
+        "Preto sem embalagem",
+        "R$ 9,77"
+      ],
+      [
+        "Cristal sem embalagem",
+        "R$ 9,77"
       ]
     ],
-    "description": "<p><span>Esse iscador produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span></p>",
+    "description": "<p><span>Esse iscador produzido e desenhado pela Chumbada, pode ser utilizado tanto para iscar corrupto, quanto para iscar camarão, de forma prática e profissional. </span></p><p><b>Agora também sem embalagem:</b> R$ 3,10 a menos por unidade (R$ 9,77 avulso), nas cores Preto e Cristal.</p>",
     "images": [
       "assets/img/shopify/capa_80941e6b-848a-48e4-85b3-6c626c50a41c.png",
       "assets/img/shopify/iscador.png",

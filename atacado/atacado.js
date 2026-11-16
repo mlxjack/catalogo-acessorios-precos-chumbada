@@ -318,6 +318,11 @@
         var varLabel = p.vars && p.vars[i] ? p.vars[i][0] : '';
         var entry = off ? null : findSkuEntry(p, state.selectedColor[p.id] || '', varLabel);
         var r = entry && row(entry.sku);
+        // variação sem SKU próprio na loja (ex. iscador sem embalagem): tabela vem de skuVariants[].atacado
+        if (!r && !off && p.skuVariants) {
+          var semSku = p.skuVariants.filter(function (v) { return v.atacado && (v.opts || []).indexOf(varLabel) >= 0; });
+          if (semSku.length === 1) r = semSku[0].atacado;
+        }
         bodyEl.innerHTML = r ? tableHtml(r)
           : '<p class="atc-out">Esta ' + (colors && vars ? 'cor/opção' : colors ? 'cor' : 'opção') +
             ' não entra na promoção de atacado. Escolha outra para ver o preço do kit.</p>';
